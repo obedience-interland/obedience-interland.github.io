@@ -1,4 +1,5 @@
 ---
-page.title: OBEDIENCE
+title: OBEDIENCE
 ---
+
 ![Poster](/images/poster.jpg)
