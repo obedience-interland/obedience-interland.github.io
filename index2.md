@@ -9,7 +9,7 @@ De inschrijving is open vanaf 1 maart en sluit 23 juni of eerder als het maximum
 Het inschrijfgeld bedraagt € 19.—incl. ontbijt. 
 Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **NL14 RABO 0162 1727 45**, onder vermelding van de klasse, de naam van de hond én de naam van de geleider.
 
-Inschrijven kan door het inschrijfformulier op deze website volledig in te vullen.
+Inschrijven kan door het [inschrijfformulier](https://kcdekempen.nl/formulieren/obedience-interland-2022/) op deze website volledig in te vullen.
 
 De inschrijving is pas geldig als het inschrijfgeld voldaan is.
 
@@ -42,7 +42,7 @@ unter Berufung auf NL-D, Klasse, Name des Hundes und den Namen der Handler.
 
 Die Meldefrist endet am 23. Juni oder wenn die max. Starterzahl erreicht ist. Die Ergebnisse werden reguär in die Leistungsurkunden eingetragen.
 
-Die Anmeldung erfolgt durch das vollständige Ausfüllen des Anmeldeformulars.
+Die Anmeldung erfolgt durch das vollständige Ausfüllen des [Anmeldeformulars](https://kcdekempen.nl/formulieren/obedience-interland-2022/).
 
 **Die Anmeldung ist erst gültig, wenn die Gebühr bezahlt ist.**
 
