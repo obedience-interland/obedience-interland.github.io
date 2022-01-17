@@ -1,6 +1,6 @@
-## Interland Nederland – Duitsland 2022
+## Interland Nederland – Duitsland 2022.
 
-Naar aanleiding van het succes van voorgaande jaren zal dit jaar op 17 juli juli 2022 de Interland Nederland Duitsland wederom bij de KC De Kempen georganiseerd worden.
+Naar aanleiding van het succes van voorgaande jaren zal dit jaar op 17 juli 2022 de Interland Nederland Duitsland wederom bij de KC De Kempen georganiseerd worden.
 
 De inschrijving is open voor deelnemers uit Nederland en Duitsland in de klasse OBB, OB1, OB2 en OB3. 
 Er wordt gekeurd volgens de nieuwe internationale FCI Reglementen 2022. 
