@@ -4,6 +4,7 @@ Naar aanleiding van het succes van voorgaande jaren zal dit jaar op 17 juli 2022
 De inschrijving is open voor deelnemers uit Nederland en Duitsland in de klasse OBB, OB1, OB2 en OB3. 
 Er wordt gekeurd volgens de nieuwe internationale FCI Reglementen 2022. 
 
+### INSCHRIJVEN
 De inschrijving is open vanaf 1 maart en sluit 23 juni of eerder als het maximum aantal deelnemers is bereikt. 
 Het inschrijfgeld bedraagt € 19.—incl. ontbijt. 
 Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **NL14 RABO 0162 1727 45**, onder vermelding van de klasse, de naam van de hond én de naam van de geleider.
@@ -27,8 +28,11 @@ Sabine Richarz & Gerlinde Dobler
 ## Länderduell Niederlande – Deutschland 2022
 Nach dem großen Erfolg der vergangenen Jahre wird das Obedience Länderduell Niederlande – Deutschland am 17, Juli 2022 erneut beim KC De Kempen ausgetragen.
 
-Es werden Anmeldungen von Teilnehmern aus den Niederlanden und Deutschland in den Klassen 1, 2 und 3 angenommen. 
-Es wird gemäß der FCI Prüfungsordnung gerichtet. Die Meldegebühr beträgt € 19.- inkl. Frühstück. 
+Es werden Anmeldungen von Teilnehmern aus den Niederlanden und Deutschland in den Klassen B, 1, 2 und 3 angenommen. 
+Es wird gemäß der neue FCI Prüfungsordnung 2022 gerichtet. 
+
+### Anmelden
+Die Meldegebühr beträgt € 19.- inkl. Frühstück. 
 Bitte umgehend bei der Anmeldung auf das Konto des KC De Kempen überweisen:
 
 IBAN: NL14 RABO 0162 1727 45  
