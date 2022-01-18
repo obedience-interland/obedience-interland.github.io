@@ -4,6 +4,12 @@ Naar aanleiding van het succes van voorgaande jaren zal dit jaar op 17 juli 2022
 De inschrijving is open voor deelnemers uit Nederland en Duitsland in de klasse OBB, OB1, OB2 en OB3. 
 Er wordt gekeurd volgens de nieuwe FCI Reglementen 2022. 
 
+
+### KEURMEESTERS
+![NL](/images/nlflag.png) Monique Barten & Dirk Belder
+
+![DE](/images/deflag.png) Sabine Richarz & Gerlinde Dobler
+
 ### INSCHRIJVEN
 De inschrijving is open vanaf 1 maart en sluit 23 juni of eerder als het maximum aantal deelnemers is bereikt. 
 
@@ -20,12 +26,6 @@ De kosten van de overnachting bedragen €5.— en dient ter plaatse betaald te 
 
 Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
 
-### KEURMEESTERS
-
-![NL](/images/nlflag.png) Monique Barten & Dirk Belder
-
-![DE](/images/deflag.png) Sabine Richarz & Gerlinde Dobler
-
 ----
 
 ## Länderduell Niederlande – Deutschland 2022
@@ -34,7 +34,12 @@ Nach dem großen Erfolg der vergangenen Jahre wird das Obedience Länderduell Ni
 Es werden Anmeldungen von Teilnehmern aus den Niederlanden und Deutschland in den Klassen B, 1, 2 und 3 angenommen. 
 Es wird gemäß der neue FCI Prüfungsordnung 2022 gerichtet. 
 
-### Anmelden
+### LEISTUNGSRICHTER
+![NL](/images/nlflag.png) Monique Barten & Dirk Belder
+
+![DE](/images/deflag.png) Sabine Richarz & Gerlinde Dobler
+
+### ANMELDEN
 Die Meldefrist endet am 23. Juni oder wenn die max. Starterzahl erreicht ist. Die Ergebnisse werden reguär in die Leistungsurkunden eingetragen.
 
 Die Anmeldung erfolgt durch das vollständige Ausfüllen des [Anmeldeformulars](https://kcdekempen.nl/formulieren/obedience-interland-2022/).
@@ -53,9 +58,3 @@ Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten 
 Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
 Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
-
-### LEISTUNGSRICHTER
-
-![NL](/images/nlflag.png) Monique Barten & Dirk Belder
-
-![DE](/images/deflag.png) Sabine Richarz & Gerlinde Dobler
