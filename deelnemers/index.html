@@ -2,32 +2,14 @@
 layout: default
 ---
 
-<h2>Deelnemers OB1</h2>
+<h2>Deelnemers OBB</h2>
+{% include_relative table.html klasse="OBB" %}
 
+<h2>Deelnemers OB1</h2>
+{% include_relative table.html klasse="OB1" %}
+
+<h2>Deelnemers OB2</h2>
 {% include_relative table.html klasse="OB2" %}
 
-== direct include ==
-<table>
-  <thead>
-    <tr>
-      <th>klasse</th>
-      <th>nr</th>
-      <th></th>
-      <th>Handler</th>
-      <th>Hond</th>
-      <th>Ras</th>
-    </tr>
-  </thead>
-  <tbody>
-{% for item in site.data.deelnemers %}
-    <tr>
-      <td>{{ item.klasse }}</td>
-      <td>{{ item.nr }}</td>
-      <td>{{ item.land }}</td>
-      <td>{{ item.handler }}</td>
-      <td>{{ item.hond }}</td>
-      <td>{{ item.ras }}</td>
-    </tr>
-{% endfor %}
-  </tbody>
-</table>
+<h2>Deelnemers OB3</h2>
+{% include_relative table.html klasse="OB3" %}
