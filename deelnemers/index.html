@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<h2>Deelnemers OB1</h2>
+
+{% include_relative table.html klasse="obb" %}
+
+<table>
+  <thead>
+    <tr>
+      <th>nr</th>
+      <th></th>
+      <th>Handler</th>
+      <th>Hond</th>
+      <th>Ras</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for item in site.data.start_obb %}
+    <tr>
+      <td>{{ item.nr }}</td>
+      <td>{{ item.land }}</td>
+      <td>{{ item.handler }}</td>
+      <td>{{ item.hond }}</td>
+      <td>{{ item.ras }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
