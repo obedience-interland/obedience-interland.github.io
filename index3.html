@@ -4,9 +4,23 @@ layout: default
 
 ---
 
+<h2>Deelnemers OBB</h2>
+
 <table>
-  <tr><td>nr</td><td>Naam</td></tr>
-  <tr><td>101</td><td>Naam 1</td></tr>
-  <tr><td>102</td><td>Naam 2</td></tr>
-  <tr><td>103</td><td>Naam 3</td></tr>
+  <th>
+    <td>OBB</td>
+    <td></td>
+    <td>Handler</td>
+    <td>Hond</td>
+    <td>Ras</td>
+  </th>
+  {% for item in site.data.start_obb %}
+  <tr>
+    <td>item.nr</td>
+    <td>item.land</td>
+    <td>item.handler</td>
+    <td>item.hond</td>
+    <td>item.ras</td>
+  </tr>
+  {% endfor %}
 </table>
