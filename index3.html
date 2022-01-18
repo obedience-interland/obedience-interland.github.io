@@ -7,20 +7,20 @@ layout: default
 <h2>Deelnemers OBB</h2>
 
 <table>
-  <th>
-    <td>OBB</td>
-    <td></td>
-    <td>Handler</td>
-    <td>Hond</td>
-    <td>Ras</td>
-  </th>
+  <tr>
+    <th>OBB</td>
+    <th></td>
+    <th>Handler</td>
+    <th>Hond</td>
+    <th>Ras</td>
+  </tr>
   {% for item in site.data.start_obb %}
   <tr>
-    <td>item.nr</td>
-    <td>item.land</td>
-    <td>item.handler</td>
-    <td>item.hond</td>
-    <td>item.ras</td>
+    <td>{{ item.nr }}</td>
+    <td>{{ item.land }}</td>
+    <td>{{ item.handler }}</td>
+    <td>{{ item.hond }}</td>
+    <td>{{ item.ras }}</td>
   </tr>
   {% endfor %}
 </table>
