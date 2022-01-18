@@ -9,7 +9,7 @@
     </tr>
   </thead>
   <tbody>
-{% for item in site.data.start_obb %}
+{% for item in site.data.deelnemers %}
     <tr>
       <td>{{ item.nr }}</td>
       <td>{{ item.land }}</td>
@@ -18,7 +18,7 @@
       <td>{{ item.ras }}</td>
     </tr>
 {% endfor %}
-    <tr><td>==</td></tr>
+    <tr><td>=2 filter=</td></tr>
 {% for item in site.data.deelnemers }} %}
   {% if item.klasse == 'ob1' %}
     <tr>
@@ -30,8 +30,9 @@
     </tr>
   {% endif %}
 {% endfor %}
-    <tr><td>==</td></tr>
-{% for item in site.data.deelnemers }} %}
+    <tr><td>=3 sort=</td></tr>
+{% assign items = site.data.deelnemers | sort: 'nr' %}
+{% for item in items %}
   {% if item.klasse == include.klasse %}
     <tr>
       <td>{{ item.nr }}</td>
