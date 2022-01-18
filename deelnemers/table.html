@@ -1,7 +1,7 @@
 <table>
   <thead>
     <tr>
-      <th>nr</th>
+      <th>Nr</th>
       <th></th>
       <th>Handler</th>
       <th>Hond</th>
@@ -18,7 +18,9 @@
       <td>{{ item.ras }}</td>
     </tr>
 {% endfor %}
-{% for item in site.data.start_{{ include.klasse }} %}
+    <tr><td>==</td></tr>
+{% for item in site.data.deelnemers }} %}
+  {% if item.klasse == 'ob1' %}
     <tr>
       <td>{{ item.nr }}</td>
       <td>{{ item.land }}</td>
@@ -26,6 +28,19 @@
       <td>{{ item.hond }}</td>
       <td>{{ item.ras }}</td>
     </tr>
+  {% endif %}
+{% endfor %}
+    <tr><td>==</td></tr>
+{% for item in site.data.deelnemers }} %}
+  {% if item.klasse == include.klasse %}
+    <tr>
+      <td>{{ item.nr }}</td>
+      <td>{{ item.land }}</td>
+      <td>{{ item.handler }}</td>
+      <td>{{ item.hond }}</td>
+      <td>{{ item.ras }}</td>
+    </tr>
+  {% endif %}
 {% endfor %}
   </tbody>
 </table>
