@@ -6,11 +6,14 @@ Er wordt gekeurd volgens de nieuwe FCI Reglementen 2022.
 
 
 ### KEURMEESTERS
-![NL](/images/nlflag.png) Monique Barten & Dirk Belder
 
-![DE](/images/deflag.png) Sabine Richarz & Gerlinde Dobler
+![NL](/images/nlflag.png) {{ site.km_nl }}
+
+![DE](/images/deflag.png) {{ site.km_de }}
+
 
 ### INSCHRIJVEN
+
 De inschrijving is open vanaf 1 maart en sluit 23 juni of eerder als het maximum aantal deelnemers is bereikt. 
 
 Inschrijven kan door het [inschrijfformulier](https://kcdekempen.nl/formulieren/obedience-interland-2022/) volledig in te vullen.
@@ -29,22 +32,25 @@ Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempe
 ----
 
 ## Länderduell Niederlande – Deutschland 2022
+
 Nach dem großen Erfolg der vergangenen Jahre wird das Obedience Länderduell Niederlande – Deutschland am 17, Juli 2022 erneut beim KC De Kempen ausgetragen.
 
 Es werden Anmeldungen von Teilnehmern aus den Niederlanden und Deutschland in den Klassen B, 1, 2 und 3 angenommen. 
 Es wird gemäß der neue FCI Prüfungsordnung 2022 gerichtet. 
 
 ### LEISTUNGSRICHTER
-![NL](/images/nlflag.png) Monique Barten & Dirk Belder
 
-![DE](/images/deflag.png) Sabine Richarz & Gerlinde Dobler
+![NL](/images/nlflag.png) {{ site.km_nl }}
+
+![DE](/images/deflag.png) {{ site.km_de }}
 
 ### ANMELDEN
+
 Die Meldefrist endet am 23. Juni oder wenn die max. Starterzahl erreicht ist. Die Ergebnisse werden reguär in die Leistungsurkunden eingetragen.
 
 Die Anmeldung erfolgt durch das vollständige Ausfüllen des [Anmeldeformulars](https://kcdekempen.nl/formulieren/obedience-interland-2022/).
 
-Die Meldegebühr beträgt € 19.- inkl. Frühstück. 
+Die Meldegebühr beträgt {{ site.prijs }} inkl. Frühstück. 
 Bitte umgehend bei der Anmeldung auf das Konto des KC De Kempen überweisen:
 
 IBAN: NL14 RABO 0162 1727 45  
