@@ -15,14 +15,14 @@ De inschrijving is open vanaf 1 maart en sluit 23 juni of eerder als het maximum
 
 Inschrijven kan door het [inschrijfformulier](https://kcdekempen.nl/formulieren/obedience-interland-2022/) volledig in te vullen.
 
-Het inschrijfgeld bedraagt € 19.— incl. ontbijt. 
+Het inschrijfgeld bedraagt {{ page.prijs }} incl. ontbijt. 
 Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **NL14 RABO 0162 1727 45**, onder vermelding van de klasse, de naam van de hond én de naam van de geleider.
 
 De inschrijving is pas geldig als ook het inschrijfgeld voldaan is.
 
 Er bestaat de mogelijkheid om op de verenigingsplaats te overnachten. 
 Aanmelding hiervoor op het inschrijformulier vermelden. 
-De kosten van de overnachting bedragen €5.— en dient ter plaatse betaald te worden.
+De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te worden.
 
 Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
 
