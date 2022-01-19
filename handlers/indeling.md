@@ -1,6 +1,7 @@
 ## Indeling
 
-[OBB](#obB) |
+Snel naar:
+[OBB](#obb) |
 [OB1](#ob1) |
 [OB2](#ob2) |
 [OB3](#ob3)
