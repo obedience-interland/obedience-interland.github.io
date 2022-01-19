@@ -1,9 +1,9 @@
 ## Indeling
 
-[OBB](#OBB) |
-[OB1](#OB1) |
-[OB2](#OB2) |
-[OB3](#OB3)
+[OBB](#obB) |
+[OB1](#ob1) |
+[OB2](#ob2) |
+[OB3](#ob3)
 
 ### OBB
 {% include_relative table.html klasse="OBB" %}
