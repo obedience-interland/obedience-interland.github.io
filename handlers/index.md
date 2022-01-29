@@ -2,8 +2,8 @@
 
 {% assign handlers = site.date.deelnemers %}
 {% assign count_all = handlers | size %}
-{% assign count_nl = handlers | where_exp: "item", "item.land == 'N' | size %}
-{% assign count_de = handlers | where_exp: "item", "item.land == 'D' | size %}
+{% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
+{% assign count_de = handlers | where_exp: "item", "item.land == 'D'" | size %}
 
 
 
