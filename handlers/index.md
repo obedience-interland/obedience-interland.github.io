@@ -1,26 +1,18 @@
 ## Inschrijvingen / Anmeldungen
 
+{% assign handlers = site.date.deelnemers %}
+{% assign count_all = handlers | size %}
+{% assign count_nl = handlers | where_exp: "item", "item.land == 'N' | size %}
+{% assign count_de = handlers | where_exp: "item", "item.land == 'D' | size %}
 
-{% assign nl_count = 1 %}
-{% assign nl_count = nl_count + 2 %}
-{% assign nl_count = site.data.deelnemers %}
 
-{% for item in items %}
-  {% if item.land == 'N' %}
-    {% assign nl_count = nl_count + 1 %}
-  {% endif %}
-{% endfor %}
 
-<h1>{{ nl_count }}</h1>
-<h2>{{ site.data.deelnemers.size }} </h2>
-<h2>-{{ site.data.deelnemers.land['N'].size }}</h2>
-<h2>={{ site.data.deelnemers | where:"land","N" | size }}</h2>
-<h2>={{ site.data.deelnemers | where_exp:"ii","ii.land == 'N'" | size }}</h2>
-<h2>-{{ site.data.deelnemers.land['N'].size }}</h2>
-<h2>-{{ site.data.deelnemers[land == 'D'].size }}</h2>
+<h2>NL {{ count_nl }}</h2>
+<h2>DE {{ count_de }}</h2>
 
 {% assign update_date = site.data.deelnemers.last.datum %}
 1 This page was last updated at {{ update_date | date: "%Y-%m-%d %H:%M" }}.
+
 {% assign update_date = site.data.deelnemers.last %}
 2 This page was last updated at {{ update_date.datum | date: "%Y-%m-%d %H:%M" }}.
 
