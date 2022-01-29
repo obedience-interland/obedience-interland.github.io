@@ -14,8 +14,8 @@
 {% assign update_date = site.data.deelnemers.sort.last.datum %}
 1 This page was last updated at {{ update_date | date: "%Y-%m-%d %H:%M" }}.
 
-{% assign update_date = site.data.deelnemers | sort | last %}
-2 This page was last updated at {{ update_date.datum | date: "%Y-%m-%d %H:%M" }}.
+{% assign update_date2 = site.data.deelnemers | sort: "datum" | last %}
+2 This page was last updated at {{ update_date2.datum | date: "%Y-%m-%d %H:%M" }}.
 
 <table>
   <thead>
