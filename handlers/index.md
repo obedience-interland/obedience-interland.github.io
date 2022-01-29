@@ -24,12 +24,6 @@ This page was last updated at {{ update_date | date: "%Y-%m-%d %H:%M" }}.
 {% assign update_date2 = '2020-02-27' %}
 This page was last updated at {{ update_date2 | date: "%Y-%m-%d %H:%M" }}.
 
-
-{% case handle %}
-  {% when "cake" %}
-     This is a cake
-  {% when "cookie", "biscuit" %}
-     This is a cookie
 <table>
   <thead>
     <tr>
