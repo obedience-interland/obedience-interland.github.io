@@ -12,8 +12,8 @@
 
 <h1>{{ nl_count }}</h1>
 <h2>{{ site.data.deelnemers.size }} </h2>
-<h2>{{ site.data.deelnemers['N'].size }} </h2>
-<h2>{{ site.data.deelnemers['D'].size }} </h2>
+<h2>-{{ site.data.deelnemers.land['N'].size }}</h2>
+<h2>-{{ site.data.deelnemers[land == 'D'].size }}</h2>
 <table>
   <thead>
     <tr>
