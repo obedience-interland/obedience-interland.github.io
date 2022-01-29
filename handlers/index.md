@@ -13,6 +13,9 @@
 <h1>{{ nl_count }}</h1>
 <h2>{{ site.data.deelnemers.size }} </h2>
 <h2>-{{ site.data.deelnemers.land['N'].size }}</h2>
+<h2>={{ site.data.deelnemers | where:"land","N" | size }}</h2>
+<h2>={{ site.data.deelnemers | where_exp:"ii","ii.land == 'N'" | size }}</h2>
+<h2>-{{ site.data.deelnemers.land['N'].size }}</h2>
 <h2>-{{ site.data.deelnemers[land == 'D'].size }}</h2>
 <table>
   <thead>
