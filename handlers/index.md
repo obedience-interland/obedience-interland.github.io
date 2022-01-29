@@ -1,6 +1,6 @@
 ## Inschrijvingen / Anmeldungen
 
-{% assign handlers = site.date.deelnemers %}
+{% assign handlers = site.data.deelnemers %}
 {% assign count_all = handlers | size %}
 {% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
 
