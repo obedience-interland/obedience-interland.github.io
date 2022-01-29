@@ -1,7 +1,7 @@
 ## Inschrijvingen / Anmeldungen
 
 
-{% assign nl_count = 0 %}
+{% assign nl_count = 1 %}
 {% assign nl_count = nl_count + 2 %}
 {% assign items = site.data.deelnemers %}
 {% for item in items %}
@@ -12,6 +12,8 @@
 
 <h1>{{ nl_count }}</h1>
 <h2>{{ site.data.deelnemers.size }} </h2>
+<h2>{{ site.data.deelnemers['N'].size }} </h2>
+<h2>{{ site.data.deelnemers['D'].size }} </h2>
 <table>
   <thead>
     <tr>
