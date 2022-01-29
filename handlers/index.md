@@ -1,23 +1,7 @@
 ## Inschrijvingen / Anmeldungen
 
-{% assign handlers = site.data.deelnemers %}
-{% assign count_all = handlers | size %}
-{% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
-
-{% assign count_de = handlers | where_exp: "item", "item.land == 'D'" %}
-
-
-
-<h2>Toetie {{ site.date.deelnemers | size }}</h2>
-<h2>Toetie {{ count_all }}</h2>
-<h2>NL {{ count_nl }}</h2>
-<h2>DE {{ count_de.size }}</h2>
-
-{% assign update_date = site.data.deelnemers.sort("datum").last.datum %}
-1 This page was last updated at {{ update_date | date: "%Y-%m-%d %H:%M" }}.
-
-{% assign oldest = site.data.deelnemers | sort: "datum" | last %}
-2 This page was last updated at {{ oldest.datum | date: "%Y-%m-%d %H:%M" }}.
+{% assign youngest = site.data.deelnemers | sort: "datum" | last %}
+Laatst bijgewerkt op: {{ youngest.datum | date: "%Y-%m-%d" }}.
 
 <table>
   <thead>
