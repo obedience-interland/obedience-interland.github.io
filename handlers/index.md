@@ -3,17 +3,18 @@
 {% assign handlers = site.date.deelnemers %}
 {% assign count_all = handlers | size %}
 {% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
-{% assign count_de = handlers | where_exp: "item", "item.land == 'D'" | size %}
+
+{% assign count_de = handlers | where_exp: "item", "item.land == 'D'" %}
 
 
 
 <h2>NL {{ count_nl }}</h2>
-<h2>DE {{ count_de }}</h2>
+<h2>DE {{ count_de.size }}</h2>
 
-{% assign update_date = site.data.deelnemers.last.datum %}
+{% assign update_date = site.data.deelnemers.sort.last.datum %}
 1 This page was last updated at {{ update_date | date: "%Y-%m-%d %H:%M" }}.
 
-{% assign update_date = site.data.deelnemers.last %}
+{% assign update_date = site.data.deelnemers | sort | last %}
 2 This page was last updated at {{ update_date.datum | date: "%Y-%m-%d %H:%M" }}.
 
 <table>
