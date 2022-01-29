@@ -1,5 +1,16 @@
 ## Inschrijvingen / Anmeldungen
 
+
+{% assign nl_count = 0 %}
+{% assign items = site.data.deelnemers %}
+{% for item in items %}
+  {% if item.land == 'N' %}
+    {% assign nl_count = nl_count + 1 %}
+  {% endif %}
+{% endfor %}
+
+<h1>{{ nl_count }}</h1>
+
 <table>
   <thead>
     <tr>
