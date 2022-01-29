@@ -19,10 +19,11 @@
 <h2>-{{ site.data.deelnemers.land['N'].size }}</h2>
 <h2>-{{ site.data.deelnemers[land == 'D'].size }}</h2>
 
-{% assign update_date = site.data.deelnemers | sort: "date" | last }} </h2>
-This page was last updated at {{ update_date | date: "%Y-%m-%d %H:%M" }}.
+{% assign update_date = site.data.deelnemers.last %}
+1 This page was last updated at {{ update_date | date: "%Y-%m-%d %H:%M" }}.
+
 {% assign update_date2 = '2020-02-27' %}
-This page was last updated at {{ update_date2 | date: "%Y-%m-%d %H:%M" }}.
+2 This page was last updated at {{ update_date2 | date: "%Y-%m-%d %H:%M" }}.
 
 <table>
   <thead>
