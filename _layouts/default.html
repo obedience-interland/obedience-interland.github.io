@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+p<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title }}</h1>
-      <h2 class="project-tagline">{{ page.title | site.description }}</h2>
+      <h2 class="project-tagline">{{ page.title | page.description | site.description }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
