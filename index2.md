@@ -1,10 +1,10 @@
 
-Naar aanleiding van het succes van voorgaande jaren zal dit jaar op 17 juli 2022 de Interland Nederland Duitsland wederom bij de KC De Kempen georganiseerd worden.
+Naar aanleiding van het succes van voorgaande jaren wordt dit jaar op 17 juli 2022 de Interland Nederland Duitsland wederom bij de KC De Kempen georganiseerd.
 
 *Nach dem großen Erfolg der vergangenen Jahre wird das Obedience Länderduell Niederlande – Deutschland am 17, Juli 2022 erneut beim KC De Kempen ausgetragen. ([weiter...](#deutsch))*
 
 De inschrijving is open voor deelnemers uit Nederland en Duitsland in de klasse OBB, OB1, OB2 en OB3. 
-Er wordt gekeurd volgens de nieuwe FCI Reglementen 2022. 
+Er wordt gekeurd volgens de nieuwe [Reglementen FCI Obedience 2022](https://www.fciobedience.nl/reglementen-fci-obedience/). 
 
 
 ### KEURMEESTERS
@@ -29,7 +29,7 @@ Er bestaat de mogelijkheid om op de verenigingsplaats te overnachten.
 Aanmelding hiervoor op het inschrijformulier vermelden. 
 De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te worden.
 
-### TUSSENSTAND
+### DEELNEMERS
 {% assign handlers = site.data.deelnemers %}
 {% assign count_all = handlers | size %}
 {% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
@@ -38,17 +38,14 @@ De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te wo
 Aantal deelnemers Nederland : {{ count_nl }}<br/>
 Aantal deelnemers Duitsland : {{ count_de }}<br/>
 
-Aantal deelnemers OBB : {{ handlers | where_exp: "h", "h.klasse == 'OBB'" | size }}<br/>
-Aantal deelnemers OB1 : {{ handlers | where_exp: "h", "h.klasse == 'OB1'" | size }}<br/>
-Aantal deelnemers OB2 : {{ handlers | where_exp: "h", "h.klasse == 'OB2'" | size }}<br/>
-Aantal deelnemers OB3 : {{ handlers | where_exp: "h", "h.klasse == 'OB3'" | size }}<br/>
+Het overzicht met de [ingeschreven deelnemers](handlers) wordt regelmatig bijgewerkt.
 
 ### MEER INFORMATIE
 Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
 
 ----
 
-##### deutsch
+##### (deutsch)
 
 ## Länderduell Niederlande – Deutschland 2022
 
@@ -82,4 +79,16 @@ unter Berufung auf NL-D, Klasse, Name des Hundes und den Namen der Handler.
 Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten € 5.- werden direkt mit dem Verein abgerechnet. 
 Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
+### TEILNEHMER
+{% assign handlers = site.data.deelnemers %}
+{% assign count_all = handlers | size %}
+{% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
+{% assign count_de = handlers | where_exp: "item", "item.land == 'D'" | size %}
+
+Anzahl der Teilnehmer Niederlanden : {{ count_nl }}<br/>
+Anzahl der Teilnehmer Deutschland : {{ count_de }}<br/>
+
+Die Übersicht mit den [registrierten Teilnehmern](handlers) wird regelmäßig aktualisiert.
+
+### WEITERE INFORMATIONEN
 Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
