@@ -15,12 +15,14 @@
 - Duitsland / Deutschland : {{ count_de }}<br/>
 
 ### Aantal per klasse / Anzahl pro Klasse<br/>
+
 - OBB : {{ handlers | where_exp: "h", "h.klasse == 'OBB'" | size }}<br/>
 - OB1 : {{ handlers | where_exp: "h", "h.klasse == 'OB1'" | size }}<br/>
 - OB2 : {{ handlers | where_exp: "h", "h.klasse == 'OB2'" | size }}<br/>
 - OB3 : {{ handlers | where_exp: "h", "h.klasse == 'OB3'" | size }}<br/>
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
+
 <table>
   <thead>
     <tr>
