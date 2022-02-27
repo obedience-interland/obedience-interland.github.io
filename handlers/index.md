@@ -1,7 +1,22 @@
 ## Inschrijvingen / Anmeldungen
 
 {% assign youngest = site.data.deelnemers | sort: "datum" | last %}
+
 Laatst bijgewerkt op: {{ youngest.datum | date: "%Y-%m-%d" }}.
+
+{% assign handlers = site.data.deelnemers %}
+{% assign count_all = handlers | size %}
+{% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
+{% assign count_de = handlers | where_exp: "item", "item.land == 'D'" | size %}
+
+Aantal deelnemers Nederland : {{ count_nl }}<br/>
+Anzahl Teilnehmer Deutschland : {{ count_de }}<br/>
+
+Aantal per klasse / Anzahl pro Klasse<br/>
+OBB : {{ handlers | where_exp: "h", "h.klasse == 'OBB'" | size }}<br/>
+OB1 : {{ handlers | where_exp: "h", "h.klasse == 'OB1'" | size }}<br/>
+OB2 : {{ handlers | where_exp: "h", "h.klasse == 'OB2'" | size }}<br/>
+OB3 : {{ handlers | where_exp: "h", "h.klasse == 'OB3'" | size }}<br/>
 
 <table>
   <thead>
