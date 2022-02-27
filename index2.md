@@ -30,6 +30,7 @@ Aanmelding hiervoor op het inschrijformulier vermelden.
 De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te worden.
 
 ### DEELNEMERS
+
 {% assign handlers = site.data.deelnemers %}
 {% assign count_all = handlers | size %}
 {% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
@@ -40,7 +41,12 @@ Aantal deelnemers Duitsland : {{ count_de }}<br/>
 
 Het overzicht met de [ingeschreven deelnemers](handlers) wordt regelmatig bijgewerkt.
 
+### PROGRAMMA
+
+Het programma en de start volgorde wordt in de week van 10 juli gepubliceerd. 
+
 ### MEER INFORMATIE
+
 Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
 
 ----
@@ -80,6 +86,7 @@ Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten 
 Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
 ### TEILNEHMER
+
 {% assign handlers = site.data.deelnemers %}
 {% assign count_all = handlers | size %}
 {% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
@@ -89,6 +96,10 @@ Anzahl der Teilnehmer Niederlanden : {{ count_nl }}<br/>
 Anzahl der Teilnehmer Deutschland : {{ count_de }}<br/>
 
 Die Übersicht mit den [registrierten Teilnehmern](handlers) wird regelmäßig aktualisiert.
+
+### PROGRAMM 
+
+Das Programm und die Startreihenfolge werden in der Woche vom 10. Juli veröffentlicht.
 
 ### WEITERE INFORMATIONEN
 Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
