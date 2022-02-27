@@ -2,10 +2,8 @@ theme: jekyll-theme-cayman
 process:
   twig: true
   
-x_title: Obedience Interland 
-x_description: KC De Kempen - 17 juli 2022
-
-title: KC De Kempen - 17 juli 2022
+title: Obedience Interland 
+description: KC De Kempen - 17 juli 2022
 
 km_nl: Monique Barten &amp; Dirk Belder
 km_de: Sabine Richarz &amp; Gerlinde Dobler
