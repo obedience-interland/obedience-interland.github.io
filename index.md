@@ -108,4 +108,5 @@ Die Übersicht mit den [registrierten Teilnehmern](handlers) wird regelmäßig a
 Das Programm und die Startreihenfolge werden in der Woche vom 10. Juli veröffentlicht.
 
 ### WEITERE INFORMATIONEN
+
 Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
