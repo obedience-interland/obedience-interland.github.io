@@ -55,7 +55,7 @@ Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempe
 
 <div class="hero-image hero-woef">
   <div class="hero-text">
-## Länderduell Niederlande – Deutschland 2022
+    <h1>Länderduell Niederlande – Deutschland 2022</h1>
     <h3>KC De Kempen - 17 juli 2022</h3>
   </div>
 </div>
