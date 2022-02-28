@@ -53,7 +53,13 @@ Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempe
 
 ##### (deutsch)
 
+<div class="hero-image hero-woef">
+  <div class="hero-text">
 ## Länderduell Niederlande – Deutschland 2022
+    <h3>KC De Kempen - 17 juli 2022</h3>
+  </div>
+</div>
+
 
 Nach dem großen Erfolg der vergangenen Jahre wird das Obedience Länderduell Niederlande – Deutschland am 17, Juli 2022 erneut beim KC De Kempen ausgetragen.
 
