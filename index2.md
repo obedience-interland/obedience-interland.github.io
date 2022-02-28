@@ -1,7 +1,7 @@
 
-Naar aanleiding van het succes van voorgaande jaren wordt dit jaar op 17 juli 2022 de Interland Nederland Duitsland wederom bij de KC De Kempen georganiseerd.
-
 *Nach dem großen Erfolg der vergangenen Jahre wird das Obedience Länderduell Niederlande – Deutschland am 17, Juli 2022 erneut beim KC De Kempen ausgetragen. ([weiter...](#deutsch))*
+
+Naar aanleiding van het succes van voorgaande jaren wordt dit jaar op 17 juli 2022 de Interland Nederland Duitsland wederom bij de KC De Kempen georganiseerd.
 
 De inschrijving is open voor deelnemers uit Nederland en Duitsland in de klasse OBB, OB1, OB2 en OB3. 
 Er wordt gekeurd volgens de nieuwe [Reglementen FCI Obedience 2022](https://www.fciobedience.nl/reglementen-fci-obedience/). 
