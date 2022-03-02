@@ -8,7 +8,7 @@
 
 ### Aantal / Anzahl<br/>
 
-- Nederland / Niederlande : {{ handlers | where_exp: "h", "h.land == 'N'" | size }}<br/>
+- Nederland / Niederlande : {{ handlers | where: 'land', 'N'" | size }}<br/>
 - Duitsland / Deutschland : {{ handlers | where_exp: "h", "h.land == 'D'" | size }}<br/>
 
 ### Aantal per klasse / Anzahl pro Klasse<br/>
