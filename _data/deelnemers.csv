@@ -1,6 +1,26 @@
-datum,klasse,nr,land,handler,hond,ras
-2022-02-28,OBB,,N,Bauke Teerenstra,Tobi,Border Collie
-2022-02-28,OB1,,N,Yvonne Reijbroek,Ceesje,Chihuahua
-2022-02-28,OB2,,D,Sandra Paulzen,Solo,Border Collie
-2022-02-28,OB2,,N,Marlous Janzen,Mystic,Border Collie
-2022-02-28,OBB,,N,Marlous Janzen,Chill,Border Collie
+datum,betaald,klasse,nr,land,handler,hond,ras
+2022-03-01,0,OB1,,D,Jutta Mühlenkamp,Luna,Australian Shepherd
+2022-03-01,0,OB2,,D,Monika Piazza,Leni,Briard
+2022-03-01,1,OB1,,N,Mandy Mous,Abby,Golden Retriever 
+2022-03-01,0,OB2,,D,Freia Röhring,Taxi,Mini American Shepard
+2022-03-01,1,OB2,,D,Gerlinde Dobler,Champ,Englisch Cocker Spaniel
+2022-02-28,0,OB2,,D,Simona Felder ,Alessya,Deutscher Schäferhund 
+2022-02-28,0,OB2,,D,Katharina Kloester,Dear,Australian Shepherd
+2022-02-28,0,OB3,,D,Sandra Paulzen ,Oreo,Border Collie 
+2022-02-28,0,OB2,,D,Diana de Beyer,Duke,Mix
+2022-02-28,1,OB1,,N,Debbie Weermann,Kyra,Border collie
+2022-02-28,1,OBB,,N,Debbie Weermann,Eywa,Border collir
+2022-02-28,1,OB2,,N,Nico de Graaf,Dirk,rottweiler 
+2022-02-28,1,OB1,,N,Nico de Graaf,Kees,rottweiler 
+2022-02-28,1,OB3,,D,Monika Tacke,Posh,Border Collie
+2022-02-28,1,OB2,,D,Marco Saager,Fine,Malinoise 
+2022-02-28,1,OB1,,D,Bianca Lendel,Velo,Border Collie
+2022-02-28,1,OB2,,D,Helma Spona,Atze,Duitse staande draadhaar
+2022-02-28,1,OB2,,D,Frank Lessig,Duna,Hollandse Herdershound
+2022-02-28,0,OBB,,N,Marlous Janzen,Chill,Border Collie
+2022-02-28,1,OBB,,N,Marlous Janzen,Chill,Border Collie
+2022-02-28,1,OB2,,N,Marlous Janzen,Mystic,Border collie
+2022-02-28,0,OB2,,D,Sandra Paulzen ,Solo,Border Collie 
+2022-02-28,0,OB1,,N,Yvonne Reijbroek,Ceesje,Chihuahua
+2022-02-28,0,OBB,,N,Bauke Teerenstra,Tobi,Border Collie
+2022-03-01,1,OB2,,N,Inaya Fanis-Hodeib,Simsim,Witte Herder
