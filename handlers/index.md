@@ -4,15 +4,12 @@
 
 ##### Laatst bijgewerkt op: {{ youngest.datum | date: "%Y-%m-%d" }}.
 
-{% assign handlers = site.data.deelnemers %}
-{% assign count_all = handlers | size %}
-{% assign count_nl = handlers | where_exp: "item", "item.land == 'N'" | size %}
-{% assign count_de = handlers | where_exp: "item", "item.land == 'D'" | size %}
+{% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse != 'XXX'" %}
 
 ### Aantal / Anzahl<br/>
 
-- Nederland / Niederlande : {{ count_nl }}<br/>
-- Duitsland / Deutschland : {{ count_de }}<br/>
+- Nederland / Niederlande : {{ handlers | where_exp: "h", "h.land == 'N'" | size }}<br/>
+- Duitsland / Deutschland : {{ handlers | where_exp: "h", "h.land == 'D'" | size }}<br/>
 
 ### Aantal per klasse / Anzahl pro Klasse<br/>
 
