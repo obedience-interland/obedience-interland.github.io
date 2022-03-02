@@ -34,7 +34,7 @@
     </tr>
   </thead>
   <tbody>
-{% assign items = site.data.deelnemers | where_exp: "h", "h.betaald == 1" | sort: 'handler' %}
+{% assign items = site.data.deelnemers | where_exp: "h", "h.betaald == '1'" | sort: 'handler' %}
 {% for item in items %}
     <tr>
       <td>{{ item.klasse }}</td>
