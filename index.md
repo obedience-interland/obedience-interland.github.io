@@ -47,7 +47,7 @@ Het programma en de start volgorde wordt in de week van 10 juli gepubliceerd.
 
 ### MERCHANDISE
 
-[![T-shirts](/images/shirt-nl.png)](https://dazzlingstitches.nl/obedience-nl-du/)
+[![T-shirts](/images/shirt-nl.png)](https://dazzlingstitches.nl/obedience-nl-du/ "Bestel een T-shirt van Team Nederland bij Dazzling Stiches")
 
 T-shirts met opschrift 'Interland 2022' zijn te bestellen bij [Dazzling Stiches](https://dazzlingstitches.nl/obedience-nl-du/)
 
@@ -115,10 +115,22 @@ Das Programm und die Startreihenfolge werden in der Woche vom 10. Juli veröffen
 
 ### MERCHANDISE
 
-[![T-shirts](/images/shirt-de.png)](https://dazzlingstitches.nl/obedience-nl-du/)
+[![T-shirts](/images/shirt-de.png)](https://dazzlingstitches.nl/obedience-nl-du/ "Team Deutschland T-Shirt bei Dazzling Stiches bestellen")
 
-T-Shirts mit der Aufschrift „Interland 2022“ können bei [Dazzling Stiches] (https://dazzlingstitches.nl/obedience-nl-du/) bestellt werden.
+T-Shirts mit der Aufschrift „Interland 2022“ können bei [Dazzling Stiches](https://dazzlingstitches.nl/obedience-nl-du/) bestellt werden.
 
 ### WEITERE INFORMATIONEN
 
 Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
+
+<button class="btn btn-success">Button klik ..</button>
+
+llorem
+
+{% include button.html url="http://www.google.com" %}
+
+llorem
+
+[Click me](http://www.google.com){: .btn}
+
+               
