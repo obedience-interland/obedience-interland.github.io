@@ -45,6 +45,12 @@ Het overzicht met de [ingeschreven deelnemers](handlers) wordt regelmatig bijgew
 
 Het programma en de start volgorde wordt in de week van 10 juli gepubliceerd. 
 
+### MERCHANDISE
+
+[![T-shirts](/images/shirt-nl.png)](https://dazzlingstitches.nl/obedience-nl-du/)
+
+T-shirts met opschrift 'Interland 2022' zijn te bestellen bij [Dazzling Stiches](https://dazzlingstitches.nl/obedience-nl-du/)
+
 ### MEER INFORMATIE
 
 Verdere informatie is te verkrijgen bij Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
@@ -106,6 +112,12 @@ Die Übersicht mit den [registrierten Teilnehmern](handlers) wird regelmäßig a
 ### PROGRAMM 
 
 Das Programm und die Startreihenfolge werden in der Woche vom 10. Juli veröffentlicht.
+
+### MERCHANDISE
+
+[![T-shirts](/images/shirt-de.png)](https://dazzlingstitches.nl/obedience-nl-du/)
+
+T-Shirts mit der Aufschrift „Interland 2022“ können bei [Dazzling Stiches] (https://dazzlingstitches.nl/obedience-nl-du/) bestellt werden.
 
 ### WEITERE INFORMATIONEN
 
