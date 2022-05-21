@@ -29,6 +29,8 @@ Er bestaat de mogelijkheid om op de verenigingsplaats te overnachten.
 Aanmelding hiervoor op het inschrijformulier vermelden. 
 De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te worden.
 
+[Inschrijven...](https://kcdekempen.nl/formulieren/obedience-interland-2022/){:.knop}
+
 ### DEELNEMERS
 
 {% assign handlers = site.data.deelnemers %}
@@ -50,6 +52,8 @@ Het programma en de start volgorde wordt in de week van 10 juli gepubliceerd.
 [![T-shirts](/images/shirt-nl.png)](https://dazzlingstitches.nl/obedience-nl-du/ "Bestel een T-shirt van Team Nederland bij Dazzling Stiches")
 
 T-shirts met opschrift 'Interland 2022' zijn te bestellen bij [Dazzling Stiches](https://dazzlingstitches.nl/obedience-nl-du/)
+
+[Direct bestellen](https://dazzlingstitches.nl/obedience-nl-du/){:.knop}
 
 ### MEER INFORMATIE
 
@@ -111,8 +115,6 @@ Anzahl der Teilnehmer Deutschland : {{ count_de }}<br/>
 
 Die Übersicht mit den [registrierten Teilnehmern](handlers) wird regelmäßig aktualisiert.
 
-[Alle Teilnehmern](handlers){:.knop}
-
 ### PROGRAMM 
 
 Das Programm und die Startreihenfolge werden in der Woche vom 10. Juli veröffentlicht.
@@ -122,6 +124,8 @@ Das Programm und die Startreihenfolge werden in der Woche vom 10. Juli veröffen
 [![T-shirts](/images/shirt-de.png)](https://dazzlingstitches.nl/obedience-nl-du/ "Team Deutschland T-Shirt bei Dazzling Stiches bestellen")
 
 T-Shirts mit der Aufschrift „Interland 2022“ können bei [Dazzling Stiches](https://dazzlingstitches.nl/obedience-nl-du/) bestellt werden.
+
+[Sofort bestellen](https://dazzlingstitches.nl/obedience-nl-du/){:.knop}
 
 ### WEITERE INFORMATIONEN
 
