@@ -138,14 +138,13 @@ Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdek
     vertical-align: middle;
     overflow: hidden;
     text-decoration: none;
-    color: inherit;
-    background-color: inherit;
     text-align: center;
     cursor: pointer;
     white-space: nowrap;
+      line-height: 1.5;
   }
 
 </style>
 <a class="buttoni" href="#">
-Hallo
+Bestel T-shirt &gt;
 </a>
