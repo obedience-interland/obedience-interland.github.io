@@ -39,3 +39,22 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+
+.button {  
+  color: #FFFFFF;
+  background-color: #04AA6D!important;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 17px;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.5;
+  padding: 6px 18px;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;    
+  white-space: nowrap;
+  vertical-align: middle;
+}
