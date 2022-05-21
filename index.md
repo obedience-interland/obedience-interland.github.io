@@ -122,15 +122,3 @@ T-Shirts mit der Aufschrift „Interland 2022“ können bei [Dazzling Stiches](
 ### WEITERE INFORMATIONEN
 
 Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
-
-<button class="btn btn-success">Button klik ..</button>
-
-llorem
-
-{ % include button.html url="http://www.google.com" % }
-
-llorem
-
-[Click me](http://www.google.com){: .btn}
-
-               
