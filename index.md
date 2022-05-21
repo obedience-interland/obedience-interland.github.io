@@ -125,10 +125,27 @@ Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdek
 
 <style>
   .buttoni {
-  background-color: green;
+  
+  color: #FFFFFF;
+    background-color: #04AA6D!important;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+  border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
   }
+
 </style>
-<div class="buttoni">
+<a class="buttoni" href="#">
 Hallo
-  [w00t](/)
-</div>
+</a>
