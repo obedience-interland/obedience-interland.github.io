@@ -148,3 +148,5 @@ Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdek
 <a class="buttoni" href="#">
 Bestel T-shirt &gt;
 </a>
+
+[registrierten Teilnehmern](handlers){: .buttoni}
