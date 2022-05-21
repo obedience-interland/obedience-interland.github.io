@@ -127,7 +127,7 @@ Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdek
 
 llorem
 
-{% include button.html url="http://www.google.com" %}
+{ % include button.html url="http://www.google.com" % }
 
 llorem
 
