@@ -97,6 +97,8 @@ unter Berufung auf NL-D, Klasse, Name des Hundes und den Namen der Handler.
 Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten € 5.- werden direkt mit dem Verein abgerechnet. 
 Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
+[Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland-2022/){:.knop}
+
 ### TEILNEHMER
 
 {% assign handlers = site.data.deelnemers %}
@@ -108,6 +110,8 @@ Anzahl der Teilnehmer Niederlanden : {{ count_nl }}<br/>
 Anzahl der Teilnehmer Deutschland : {{ count_de }}<br/>
 
 Die Übersicht mit den [registrierten Teilnehmern](handlers) wird regelmäßig aktualisiert.
+
+[Alle Teilnehmern](handlers){:.knop}
 
 ### PROGRAMM 
 
@@ -122,5 +126,3 @@ T-Shirts mit der Aufschrift „Interland 2022“ können bei [Dazzling Stiches](
 ### WEITERE INFORMATIONEN
 
 Weitere informationen sind zu bekommen bei: Dirk Belder, e-mail [interland@kcdekempen.nl](mailto:interland@kcdekempen.nl).
-
-[registrierten Teilnehmern](handlers){:.btni}
