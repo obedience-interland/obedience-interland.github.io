@@ -41,7 +41,7 @@ De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te wo
 Aantal deelnemers Nederland : {{ count_nl }}<br/>
 Aantal deelnemers Duitsland : {{ count_de }}<br/>
 
-Het overzicht met de [ingeschreven deelnemers](handlers) wordt regelmatig bijgewerkt.
+Het overzicht met de [deelnemers](handlers){:.knop} wordt regelmatig bijgewerkt.
 
 ### PROGRAMMA
 
@@ -113,7 +113,7 @@ Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 Anzahl der Teilnehmer Niederlanden : {{ count_nl }}<br/>
 Anzahl der Teilnehmer Deutschland : {{ count_de }}<br/>
 
-Die Übersicht mit den [registrierten Teilnehmern](handlers) wird regelmäßig aktualisiert.
+Die Übersicht mit den [Teilnehmern](handlers){:.knop} wird regelmäßig aktualisiert.
 
 ### PROGRAMM 
 
