@@ -4,6 +4,8 @@ datum,betaald,klasse,nr,land,handler,hond,ras
 2022-03-01,1,OB1,,N,Mandy Mous,Abby,Golden Retriever 
 2022-03-01,1,OB2,,D,Freia Röhring,Taxi,Mini American Shepard
 2022-03-01,1,OB2,,D,Gerlinde Dobler,Champ,Englisch Cocker Spaniel
+
+
 2022-02-28,1,OB3,,D,Sandra Paulzen ,Oreo,Border Collie 
 2022-02-28,1,OB2,,D,Diana de Beyer,Duke,Mix
 2022-02-28,1,OB1,,N,Debbie Weermann,Kyra,Border collie
@@ -15,8 +17,12 @@ datum,betaald,klasse,nr,land,handler,hond,ras
 2022-02-28,1,OB1,,D,Bianca Lendel,Leary,Border Collie
 2022-02-28,1,OB2,,D,Helma Spona,Atze,Duitse staande draadhaar
 2022-02-28,1,OB2,,D,Frank Lessig,Duna,Hollandse Herdershound
+
 2022-02-28,1,OBB,,N,Marlous Janzen,Chill,Border Collie
+
 2022-02-28,1,OB2,,D,Sandra Paulzen ,Solo,Border Collie 
+
+
 2022-03-26,1,OB1,,N,Gerard Tomassen,Quinto,Groenendaeler
 2022-03-26,1,OBB,,N,Ingrid van Wezel,Blaidd,Zwitserse witte herder 
 2022-03-26,1,OB1,,N,Kevin Vanweersch ,Zoey,Border collie 
@@ -27,6 +33,7 @@ datum,betaald,klasse,nr,land,handler,hond,ras
 2022-03-02,1,OB2,,N,Inaya Fanis-Hodeib ,Simsim,Witte Herder
 2022-04-06,1,OB3,,D,Sabine Korn,Anouk,Australian Kelpie
 2022-04-05,1,OB2,,N,John van Hemert,Gypsy,Tervuerense Herder
+
 2022-04-03,1,OB2,,D,Claudia Michels ,Keen,Border Collie
 2022-04-02,1,OBB,,N,Marianne Vroegop ,Jimi,Belgische Herder Groenendaeler 
 2022-03-31,1,OB1,,N,Jamila Peperkamp,Faya,Border Collie
@@ -49,4 +56,5 @@ datum,betaald,klasse,nr,land,handler,hond,ras
 2022-05-28,1,OB2,,N,Sjoerd Sijmonsma,Jade,Labrador retriever
 2022-05-28,1,OB2,,N,Ivana Bakker ,Tayro,Mechelse herder 
 2022-05-30,1,OB1,,D,Melanie Tiemann,Akina,Malinois
-2022-06-09,1,OB1,,D,Carmen Meier ,Scott,Border Collie 
+
+2022-06-23,1,OB1,,D,Carmen Meier ,Scott,Border Collie 
