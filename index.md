@@ -1,5 +1,3 @@
-<center>
-
 # *Obedience Interland*
 
 Inschrijving open 1 maart 2024  
@@ -35,5 +33,3 @@ Gerard Tomassen - Barabara Schifter - Edwin Rademakers
 
 <br><br>
 Info:  info@obedience-interland.nl
-
-</center>
