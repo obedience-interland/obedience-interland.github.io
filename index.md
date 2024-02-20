@@ -12,14 +12,14 @@ via / &uuml;ber
 
 ## **www.obedience-interland.nl**
 
-<img src="./images/dutch-german-t.png" width="300">
+<img src="images/dutch-german-t.png" width="300">
 
 # 14-07-2024
 
 <br> 
 
 Kamperen mogelijk
-<img src="./images/camping-dog.jpg" width="120">
+<img src="images/camping-dog.jpg" width="120">
 Camping M&ouml;chlich
 
 <br>
