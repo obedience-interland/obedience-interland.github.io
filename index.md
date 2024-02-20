@@ -1,4 +1,3 @@
-<div style="text-align:center">
 
 # *Obedience Interland 2024*
 
@@ -37,5 +36,3 @@ Gerard Tomassen - Barabara Schifter - Edwin Rademakers
 
 <br><br>
 Info:  info@obedience-interland.nl
-
-</div>
