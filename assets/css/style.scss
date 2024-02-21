@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
+
+body {color: #000000;}
+
+h1, h2, h3 { color: #1557dcf3; } 
+
 .page-header {
-  color: #fff;
+  color: #1557dcf3;
   text-align: center;
   background-color: #669933;
   background-image: url("/images/banner.jpg");
