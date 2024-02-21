@@ -28,7 +28,7 @@ Startgeld €&nbsp;20,- inc. ontbijt&nbsp;/&nbsp;Fr&uuml;hst&uuml;ck
 <br>
 
 ## Keurmeesters / Leistungsrichter
-Monique&nbsp;Barten<br>
+Monique&nbsp;Barten (NL)<br>
 Dirk&nbsp;Belder (NL)<br>
 Kirsten&nbsp;Niederstenschee (DE)
 
