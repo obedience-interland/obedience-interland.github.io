@@ -1,15 +1,11 @@
 
-# *Obedience Interland 2024*
+# *Obedience Interland*
 
 Inschrijving open 1 maart 2024  
 Anmeldung offen 1 M&auml;rz 2024
 
 ## OBB (NL) / OBB (VDH)
 ## OB1 - OB2 - OB3
-
-via / &uuml;ber
-
-## **[www.obedience-interland.nl](https://www.obedience-interland.nl)**
 
 <img src="images/dutch-german-t.png" width="300">
 
