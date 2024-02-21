@@ -17,22 +17,23 @@ via / &uuml;ber
 
 <br> 
 
-Kamperen mogelijk
+Kamperen&nbsp;mogelijk
 <img src="images/camping-dog.jpg" width="120">
 Camping M&ouml;chlich
 
 <br>
 
-Startgeld € 20,- inc. ontbijt / Fr&uuml;hst&uuml;ck
+Startgeld €&nbsp;20,- inc. ontbijt&nbsp;/&nbsp;Fr&uuml;hst&uuml;ck
 
 <br>
 
 ## Keurmeesters / Leistungsrichter
-Monique Barten - Dirk Belder (NL)<br>
-Kirsten Niederstenschee (DE) - Vorbehaltich der Ver&ouml;ffentlichung VHD)
+Monique&nbsp;Barten<br>
+Dirk&nbsp;Belder (NL)<br>
+Kirsten&nbsp;Niederstenschee (DE)
 
 ## Stewards
-Gerard Tomassen - Barabara Schifter - Edwin Rademakers
+Gerard&nbsp;Tomassen - Barabara&nbsp;Schifter - Edwin&nbsp;Rademakers
 
 <br><br>
 Info:  <info@obedience-interland.nl>
