@@ -9,7 +9,7 @@ Anmeldung offen 1 M&auml;rz 2024
 
 via / &uuml;ber
 
-## **www.obedience-interland.nl**
+## **[www.obedience-interland.nl](https://www.obedience-interland.nl)**
 
 <img src="images/dutch-german-t.png" width="300">
 
@@ -35,4 +35,4 @@ Kirsten Niederstenschee (DE) - Vorbehaltich der Ver&ouml;ffentlichung VHD)
 Gerard Tomassen - Barabara Schifter - Edwin Rademakers
 
 <br><br>
-Info:  info@obedience-interland.nl
+Info:  <info@obedience-interland.nl>
