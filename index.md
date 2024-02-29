@@ -10,7 +10,7 @@
 
 ## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
 
-Het inschrijfgeld bedraagt €&nbsp;{{ site.prijs }} incl. ontbijt.  
+Het inschrijfgeld bedraagt €&nbsp;20,00 incl. ontbijt.
 Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **{{ site.iban }}**, onder vermelding van de klasse, de naam van de hond én de naam van de geleider.
 
 De inschrijving is pas geldig als ook het inschrijfgeld voldaan is.
@@ -24,7 +24,7 @@ De kosten van de overnachting bedragen €&nbsp;5,- en dient ter plaatse betaald
 [Nu inschrijven!](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
 
 ## ![DE](/images/flag-de.png) Die Anmeldung ist geöffnet
-Die Meldegebühr beträgt {{ site.prijs }}&nbsp;€ inkl. Frühstück.  
+Die Meldegebühr beträgt 20,00&nbsp;€ inkl. Frühstück.
 Bitte umgehend bei der Anmeldung auf das Konto des KC De Kempen überweisen:
 
 IBAN: {{ site.iban }}  
