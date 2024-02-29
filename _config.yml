@@ -3,9 +3,8 @@ process:
   twig: true
   
 title: Obedience Interland 
-description: KC De Kempen - 17 juli 2022
+description: KC De Kempen - 14 juli 2024
 
-km_nl: Monique Barten
-km_de: Jan Br&uuml;ckner
-
-prijs: €&nbsp;19,-
+prijs: €&nbsp;20,-
+iban: NL14 RABO 0162 1727 45
+bic: RABONL2U  

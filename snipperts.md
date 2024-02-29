@@ -7,3 +7,4 @@ Die Anmeldung ist geöffnet.
 
 gesloten.
 geschlossen.
+

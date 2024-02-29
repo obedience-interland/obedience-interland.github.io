@@ -1,25 +1,52 @@
 
-# *Obedience Interland*
+# *Obedience Interland 2024*
 
-Inschrijving open 1 maart 2024  
-Anmeldung offen 1 M&auml;rz 2024
 
-## OBB (NL) / OBB (VDH)
-## OB1 - OB2 - OB3
+## OBB (NL/VDH) - OB1 - OB2 - OB3
+
+### 14. Juli 2024
+
+## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
+
+Het inschrijfgeld bedraagt {{ site.prijs }} incl. ontbijt.  
+Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **{{ site.iban }}**, onder vermelding van de klasse, de naam van de hond én de naam van de geleider.
+
+De inschrijving is pas geldig als ook het inschrijfgeld voldaan is.
+
+De inschrijving sluit 23 juni of eerder als het maximum aantal deelnemers is bereikt.
+
+Er bestaat de mogelijkheid om op de verenigingsplaats te overnachten. 
+Aanmelding hiervoor op het inschrijformulier vermelden. 
+De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te worden.
+
+
+## ![DE](/images/flag-de.png) Die Anmeldung ist geöffnet
+Die Meldegebühr beträgt {{ site.prijs }} inkl. Frühstück.  
+Bitte umgehend bei der Anmeldung auf das Konto des KC De Kempen überweisen:
+
+IBAN: {{ site.iban }}  
+BIC: {{ site.bic }}  
+
+unter Berufung auf NL-D, Klasse, Name des Hundes und den Namen der Handler. 
+
+**Die Anmeldung ist erst gültig, wenn die Gebühr bezahlt ist.**
+
+Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten € 5.- werden direkt mit dem Verein abgerechnet. 
+Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
+
+
+
+[Inschrijven/Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
+
 
 <img src="images/dutch-german-t.png" width="300">
 
-# 14-07-2024
 
 <br> 
 
 Kamperen&nbsp;mogelijk
 <img src="images/camping-dog.jpg" width="120">
 Camping M&ouml;chlich
-
-<br>
-
-Startgeld €&nbsp;20,- inc. ontbijt&nbsp;/&nbsp;Fr&uuml;hst&uuml;ck
 
 <br>
 
