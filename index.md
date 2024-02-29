@@ -6,6 +6,8 @@
 
 ### 14. Juli 2024
 
+<img src="images/dutch-german-t.png" width="300">
+
 ## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
 
 Het inschrijfgeld bedraagt €&nbsp;{{ site.prijs }} incl. ontbijt.  
@@ -19,6 +21,7 @@ Er bestaat de mogelijkheid om op de verenigingsplaats te overnachten.
 Aanmelding hiervoor op het inschrijformulier vermelden. 
 De kosten van de overnachting bedragen €&nbsp;5,- en dient ter plaatse betaald te worden.
 
+[Inschrijven / Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
 
 ## ![DE](/images/flag-de.png) Die Anmeldung ist geöffnet
 Die Meldegebühr beträgt {{ site.prijs }}&nbsp;€ inkl. Frühstück.  
@@ -36,10 +39,8 @@ Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
 
 
-[Inschrijven/Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
+[Inschrijven / Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
 
-
-<img src="images/dutch-german-t.png" width="300">
 
 
 <br> 
