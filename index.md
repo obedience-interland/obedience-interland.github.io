@@ -34,6 +34,8 @@ unter Berufung auf NL-D, Klasse, Name des Hundes und den Namen der Handler.
 
 **Die Anmeldung ist erst gültig, wenn die Gebühr bezahlt ist.**
 
+Die Meldefrist endet am 23. Juni oder wenn die max. Starterzahl erreicht ist. Die Ergebnisse werden reguär in die Leistungsurkunden eingetragen.
+
 Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten 5,00&nbsp;€ werden direkt mit dem Verein abgerechnet. 
 Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
