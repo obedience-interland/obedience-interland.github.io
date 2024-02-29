@@ -8,7 +8,7 @@
 
 ## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
 
-Het inschrijfgeld bedraagt {{ site.prijs }} incl. ontbijt.  
+Het inschrijfgeld bedraagt €&nbsp;{{ site.prijs }} incl. ontbijt.  
 Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **{{ site.iban }}**, onder vermelding van de klasse, de naam van de hond én de naam van de geleider.
 
 De inschrijving is pas geldig als ook het inschrijfgeld voldaan is.
@@ -17,11 +17,11 @@ De inschrijving sluit 23 juni of eerder als het maximum aantal deelnemers is ber
 
 Er bestaat de mogelijkheid om op de verenigingsplaats te overnachten. 
 Aanmelding hiervoor op het inschrijformulier vermelden. 
-De kosten van de overnachting bedragen €5,- en dient ter plaatse betaald te worden.
+De kosten van de overnachting bedragen €&nbsp;5,- en dient ter plaatse betaald te worden.
 
 
 ## ![DE](/images/flag-de.png) Die Anmeldung ist geöffnet
-Die Meldegebühr beträgt {{ site.prijs }} inkl. Frühstück.  
+Die Meldegebühr beträgt {{ site.prijs }}&nbsp;€ inkl. Frühstück.  
 Bitte umgehend bei der Anmeldung auf das Konto des KC De Kempen überweisen:
 
 IBAN: {{ site.iban }}  
@@ -31,7 +31,7 @@ unter Berufung auf NL-D, Klasse, Name des Hundes und den Namen der Handler.
 
 **Die Anmeldung ist erst gültig, wenn die Gebühr bezahlt ist.**
 
-Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten € 5.- werden direkt mit dem Verein abgerechnet. 
+Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten 5,00&nbsp;€ werden direkt mit dem Verein abgerechnet. 
 Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
 
