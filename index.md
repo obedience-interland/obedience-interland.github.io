@@ -21,7 +21,7 @@ Er bestaat de mogelijkheid om op de verenigingsplaats te overnachten.
 Aanmelding hiervoor op het inschrijformulier vermelden. 
 De kosten van de overnachting bedragen €&nbsp;5,- en dient ter plaatse betaald te worden.
 
-[Inschrijven / Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
+[Nu inschrijven!](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
 
 ## ![DE](/images/flag-de.png) Die Anmeldung ist geöffnet
 Die Meldegebühr beträgt {{ site.prijs }}&nbsp;€ inkl. Frühstück.  
@@ -38,9 +38,7 @@ Es besteht auch wieder die Möglichkeit, auf dem Gelände zu campen. Die Kosten 
 Die Anmeldung zum Campen bitte auf dem Anmeldeformular angeben.
 
 
-
-[Inschrijven / Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
-
+[Sofort anmelden!](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
 
 
 <br> 
@@ -58,6 +56,10 @@ Kirsten&nbsp;Niederstenschee (DE)
 
 ## Stewards
 Gerard&nbsp;Tomassen - Barabara&nbsp;Schifter - Edwin&nbsp;Rademakers
+
+
+[Inschrijven / Anmelden...](https://kcdekempen.nl/formulieren/obedience-interland/){:.knop}
+
 
 <br><br>
 Info:  <info@obedience-interland.nl>
