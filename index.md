@@ -11,7 +11,7 @@
 ## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
 
 Het inschrijfgeld bedraagt €&nbsp;20,00 incl. ontbijt.
-Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **{{ site.iban }}**, onder vermelding van de klasse, de naam van de hond én de naam van de geleider.
+Dit dient overgemaakt te worden op het rekening nummer van KC De Kempen: **{{ site.iban }}**, onder vermelding van 'Interland', 14-07-2024, klasse, naam van de hond én naam van de geleider.
 
 De inschrijving is pas geldig als ook het inschrijfgeld voldaan is.
 
@@ -30,7 +30,7 @@ Bitte umgehend bei der Anmeldung auf das Konto des KC De Kempen überweisen:
 IBAN: {{ site.iban }}  
 BIC: {{ site.bic }}  
 
-unter Berufung auf NL-D, Klasse, Name des Hundes und den Namen der Handler. 
+unter Berufung auf 'Interland', 14.07.2024, Klasse, Name des Hundes und den Namen der Handler. 
 
 **Die Anmeldung ist erst gültig, wenn die Gebühr bezahlt ist.**
 
