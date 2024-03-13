@@ -1,60 +1,35 @@
-datum,betaald,klasse,nr,land,handler,hond,ras
-2022-03-01,1,OB1,,D,Jutta Mühlenkamp,Luna,Australian Shepherd
-2022-03-01,1,OB2,,D,Monika Piazza,Leni,Briard
-2022-03-01,1,OB1,,N,Mandy Mous,Abby,Golden Retriever 
-2022-03-01,1,OB2,,D,Freia Röhring,Taxi,Mini American Shepard
-2022-03-01,1,OB2,,D,Gerlinde Dobler,Champ,Englisch Cocker Spaniel
-
-
-2022-02-28,1,OB3,,D,Sandra Paulzen ,Oreo,Border Collie 
-2022-02-28,1,OB2,,D,Diana de Beyer,Duke,Mix
-2022-02-28,1,OB1,,N,Debbie Weermann,Kyra,Border collie
-2022-02-28,1,OBB,,N,Debbie Weermann,Eywa,Border collie
-2022-02-28,1,OB2,,N,Nico de Graaf,Dirk,rottweiler 
-2022-02-28,1,OB1,,N,Nico de Graaf,Kees,rottweiler 
-2022-02-28,1,OB3,,D,Monika Tacke,Posh,Border Collie
-2022-02-28,1,OB2,,D,Marco Saager,Fine,Malinoise 
-2022-02-28,1,OB1,,D,Bianca Lendel,Leary,Border Collie
-2022-02-28,1,OB2,,D,Helma Spona,Atze,Duitse staande draadhaar
-2022-02-28,1,OB2,,D,Frank Lessig,Duna,Hollandse Herdershound
-
-2022-02-28,1,OBB,,N,Marlous Janzen,Chill,Border Collie
-
-2022-02-28,1,OB2,,D,Sandra Paulzen ,Solo,Border Collie 
-
-
-2022-03-26,1,OB1,,N,Gerard Tomassen,Quinto,Groenendaeler
-2022-03-26,1,OBB,,N,Ingrid van Wezel,Blaidd,Zwitserse witte herder 
-2022-03-26,1,OB1,,N,Kevin Vanweersch ,Zoey,Border collie 
-2022-03-26,1,OB1,,N,Evelien Alberts,Fay,Border collie 
-2022-03-20,1,OB2,,N,Andrea Dietz,Phil,Border Collie
-2022-03-04,1,OB1,,N,Marjolein vd Broeke,Siërra,Tervuerense herder
-2022-03-03,1,OB2,,D,Simona Felder ,Alessya,DSH
-2022-03-02,1,OB2,,N,Inaya Fanis-Hodeib ,Simsim,Witte Herder
-2022-04-06,1,OB3,,D,Sabine Korn,Anouk,Australian Kelpie
-2022-04-05,1,OB2,,N,John van Hemert,Gypsy,Tervuerense Herder
-
-2022-04-03,1,OB2,,D,Claudia Michels ,Keen,Border Collie
-2022-04-02,1,OBB,,N,Marianne Vroegop ,Jimi,Belgische Herder Groenendaeler 
-2022-03-31,1,OB1,,N,Jamila Peperkamp,Faya,Border Collie
-2022-04-13,1,OB3,,D,Marion Volsdorf,Eazy,Border Collie
-2022-04-10,1,OB1,,N,Debbie Sheridan,Donna,Border Collie
-2022-04-13,1,OB2,,N,Esther kikkert,Joolz,Border Collie 
-2022-04-13,1,OBB,,D,Gabriele Vitzer,Finja,Australian Shepherd
-2022-04-13,1,OB2,,D,Hans Udo Vitzer,EVE,Weißer Schweizer Schäferhund
-2022-04-16,1,OB3,,N,Margo van der Ham,Zappa,Tervuerense herder
-2022-04-18,1,OB3,,N,Thea van Niekerk,Pella,Groenendaeler
-2022-04-22,1,OB1,,N,Leon van den Wildenberg,Amy,Zwitserse Witte Herder
-2022-04-24,1,OB3,,D,Carmen Meier,Bo,Border Collie 
-2022-05-03,1,OB1,,N,Ine Walschots,Elwood,Groenendaeler
-2022-05-04,1,OBB,,N,Gina Donze,Raicho,Border Collie
-2022-05-05,1,OBB,,N,Marieke van der Burgt,Kaya,Duitse Herdershond Stokhaar
-2022-05-06,1,OB1,,D,Christa Kusche,Heidi,Border Collie
-2022-05-07,1,OB1,,N,Kelly albers,Haycko,Border Collie
-2022-05-14,1,OBB,,N,Ingrid van den Eerenbeemd,Teddie,Labradoodle
-2022-05-23,1,OB1,,N,Marjan van Denderen,Fynn,Border collie
-2022-05-28,1,OB2,,N,Sjoerd Sijmonsma,Jade,Labrador retriever
-2022-05-28,1,OB2,,N,Ivana Bakker ,Tayro,Mechelse herder 
-2022-05-30,1,OB1,,D,Melanie Tiemann,Akina,Malinois
-
-2022-06-23,1,OB1,,D,Carmen Meier ,Scott,Border Collie 
+datum,land,klasse,handler,hond,ras
+2024-03-12,N,OB 1,Peter van Genderen,Harley ,Australian Kelpie
+2024-03-11,N,OB 1,Marianne Stolvoort ,Ivy,Friese Stabij
+2024-03-11,N,OB 1,Marianne Stolvoort,Jazz,Friese Stabij
+2024-03-11,N,OB 2,Bianca van Gils,Fellow,Labrador Retriever
+2024-03-09,N,OB 2,Kelly albers ,Haycko,Border collie
+2024-03-09,N,OB 1,Kelly albers,Marat,Border collie 
+2024-03-08,N,OB 3,Marion Wante,Ringo,Mechelse herder
+2024-03-07,N,OB 2,Petra Flipsen,Arwen,Belgische herder Mechelse
+2024-03-05,N,OB 1,Debbie Weermann,Kyra,Border collie
+2024-03-05,N,OB 1,Joke vd Schuren,Dalli,kruising
+2024-03-05,N,OB 1,Leon van den Wildenberg,Amy,Zwitserse Witte Herder
+2024-03-05,N,OB B,Leon van den Wildenberg,Ellis,Zwitserse Witte Herder
+2024-03-04,D,OB 3,Petra Zweifel-Knappe,Twix,Border Collie
+2024-03-03,D,OB 3,Isa Krumm,Clyde,Border Collie
+2024-03-02,D,OB 2,Christa Hermanspahn,Ella,Border Collie 
+2024-03-01,N,OB 1,Ingrid van den Eerenbeemt ,Ted,Labradoodle
+2024-03-01,D,OB 3,Sabine Korn,Anouk ,Australian Kelpie 
+2024-03-01,N,OB 2,Ingrid van Wezel,Blaidd,Zwitserse witte herdershond
+2024-03-01,D,OB 1,Natalie wilms ,Tala,Mischling
+2024-03-01,D,OB 2,Bianca Lendel,Leary,Border Collie
+2024-03-01,D,OB B,Nadine Veronese ,Illox zur Krombach ,Deutscher SchÃ¤ferhund 
+2024-03-01,D,OB 3,Sabine Doant,Nuts,Mix
+2024-03-01,D,OB 3,Klaus-JÃ¼rgen Doant,Paisley,Border Collie
+2024-03-01,D,OB 1,Klaus - JÃ¼rgen Doant,Saphira,Mix
+2024-03-01,D,OB 3,Melanie Tiemann,Akina,Malinois
+2024-03-01,N,OB 1,Laureen Neijndorff,Luna,Hollandse Herder korthaar
+2024-03-01,N,OB 1,Marlous Janzen ,Chill,Border collie 
+2024-02-29,D,OB 2,Wolfgang LÃ¶neke ,Eddy,Border Collie 
+2024-02-29,N,OB B,Silke Heerink,Sam,Heidewachtel x Engelse Springer Spaniel
+2024-02-29,N,OB B,Danitsja Bosua,Mack,Bordercollie 
+2024-02-29,D,OB 1,Dr. Harriet Hellwig,Lando,Bordercollie
+2024-02-29,D,OB 3,Dr. Harriet Hellwig,Bowie,Bordercollie
+2024-02-29,D,OB 3,Sandra Paulzen ,Solo,Border Collie
+2024-02-29,D,OB 3,Monika Tacke,Posh,Border Collie

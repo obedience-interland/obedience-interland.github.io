@@ -12,19 +12,9 @@
 
 <img src="images/dutch-german-t.png" width="300">
 
-<style>
-    .center {
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-<table class="center"><tr>
-<td><h2>{{count_nl}}</h2><br/>Team Nederland</td>
-<td><h2>{{count_de}}</h2><br/>Team Deutschland</td>
-</tr></table>
 
-<h2>{{count_nl}} - {{count_de}}</h2>
-Team Nederland- Team Deutschland
+<h1>{{count_nl}} - {{count_de}}</h1>
+Team Nederland - Team Deutschland
 
 <br/>
 
