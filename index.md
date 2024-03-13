@@ -1,11 +1,12 @@
 
 # *Obedience Interland 2024*
+
 {% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse contains 'OB'" %}
 
-{% assign count_nl = handlers | where: 'land', 'N'" | size }
+{ % assign count_nl = handlers | where: 'land', 'N'" | size }
 { % assign count_de = handlers | where: 'land', 'D'" | size }
 
-
+{{handlers}}
 
 ## OBB (NL/VDH) - OB1 - OB2 - OB3
 
