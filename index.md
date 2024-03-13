@@ -10,7 +10,7 @@
 
 ### 14. Juli 2024
 
-<img src="images/dutch-german-t.png" width="300">
+<h1>{{count_nl}} <img src="images/dutch-german-t.png" width="300"> {{count_de}}</h1>
 
 
 <h1>{{count_nl}} - {{count_de}}</h1>
