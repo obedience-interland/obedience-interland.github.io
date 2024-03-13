@@ -4,7 +4,7 @@
 
 ##### Laatst bijgewerkt op: {{ youngest.datum | date: "%Y-%m-%d" }}.
 
-{% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse contains 'OB'" %}
+{% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse != 'XXX'" %}
 
 ### Aantal / Anzahl<br/>
 
@@ -13,10 +13,10 @@
 
 ### Aantal per klasse / Anzahl pro Klasse<br/>
 
-- OBB : {{ handlers | where: 'klasse', 'OB B'" | size }}<br/>
-- OB1 : {{ handlers | where: 'klasse', 'OB 1'" | size }}<br/>
-- OB2 : {{ handlers | where: 'klasse', 'OB 2'" | size }}<br/>
-- OB3 : {{ handlers | where: 'klasse', 'OB 3'" | size }}<br/>
+- OBB : {{ handlers | where: 'klasse', 'OBB'" | size }}<br/>
+- OB1 : {{ handlers | where: 'klasse', 'OB1'" | size }}<br/>
+- OB2 : {{ handlers | where: 'klasse', 'OB2'" | size }}<br/>
+- OB3 : {{ handlers | where: 'klasse', 'OB3'" | size }}<br/>
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
