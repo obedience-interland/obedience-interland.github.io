@@ -13,17 +13,17 @@ Duitsland / Deutschland : {{ handlers | where: 'land', 'D'" | size }}<br/>
 
 ### Aantal per klasse / Anzahl pro Klasse<br/>
 
-- OB B : {{ handlers | where: 'klasse', 'OB B'" | size }}<br/>
-- OB 1 : {{ handlers | where: 'klasse', 'OB 1'" | size }}<br/>
-- OB 2 : {{ handlers | where: 'klasse', 'OB 2'" | size }}<br/>
-- OB 3 : {{ handlers | where: 'klasse', 'OB 3'" | size }}<br/>
+OB B : {{ handlers | where: 'klasse', 'OB B'" | size }}<br/>
+OB 1 : {{ handlers | where: 'klasse', 'OB 1'" | size }}<br/>
+OB 2 : {{ handlers | where: 'klasse', 'OB 2'" | size }}<br/>
+OB 3 : {{ handlers | where: 'klasse', 'OB 3'" | size }}<br/>
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
 <table>
   <thead>
     <tr>
-      <th>Nr</th>
+      <th>Klasse</th>
       <th></th>
       <th>Handler</th>
       <th>Hond</th>
@@ -33,7 +33,7 @@ Duitsland / Deutschland : {{ handlers | where: 'land', 'D'" | size }}<br/>
   <tbody>
 {% assign items = handlers %}
 {% for item in items %}
-    <tr>
+    <tr align="left">
       <td>{{ item.klasse }}</td>
       <td>{{ item.land }}</td>
       <td>{{ item.handler }}</td>
