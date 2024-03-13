@@ -8,15 +8,15 @@
 
 ### Aantal / Anzahl<br/>
 
-- Nederland / Niederlande : {{ handlers | where: 'land', 'N'" | size }}<br/>
-- Duitsland / Deutschland : {{ handlers | where: 'land', 'D'" | size }}<br/>
+Nederland / Niederlande : {{ handlers | where: 'land', 'N'" | size }}<br/>
+Duitsland / Deutschland : {{ handlers | where: 'land', 'D'" | size }}<br/>
 
 ### Aantal per klasse / Anzahl pro Klasse<br/>
 
-- OBB : {{ handlers | where: 'klasse', 'OB B'" | size }}<br/>
-- OB1 : {{ handlers | where: 'klasse', 'OB 1'" | size }}<br/>
-- OB2 : {{ handlers | where: 'klasse', 'OB 2'" | size }}<br/>
-- OB3 : {{ handlers | where: 'klasse', 'OB 3'" | size }}<br/>
+- OB B : {{ handlers | where: 'klasse', 'OB B'" | size }}<br/>
+- OB 1 : {{ handlers | where: 'klasse', 'OB 1'" | size }}<br/>
+- OB 2 : {{ handlers | where: 'klasse', 'OB 2'" | size }}<br/>
+- OB 3 : {{ handlers | where: 'klasse', 'OB 3'" | size }}<br/>
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
@@ -31,7 +31,7 @@
     </tr>
   </thead>
   <tbody>
-{% assign items = site.data.deelnemers | where: 'betaald', '1'" | sort: 'handler' %}
+{% assign items = handlers %}
 {% for item in items %}
     <tr>
       <td>{{ item.klasse }}</td>
