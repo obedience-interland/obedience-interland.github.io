@@ -16,7 +16,9 @@
 <h1>{{count_nl}} - {{count_de}}</h1>
 Team Nederland - Team Deutschland
 
-[Inschrijvingen / Anmeldungen](handlers){:.knop}
+[Deelnemers / Teilnehmern](handlers){:.knop}
+
+<br/>
 <br/>
 
 ## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
