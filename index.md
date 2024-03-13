@@ -14,7 +14,7 @@
 <img src="images/dutch-german-t.png" width="300">
 
 <table><tr>
-<td><h2>{ { count_nl}}</h2><br/>Team Nederland</td>
+<td><h2>{{count_nl}}</h2><br/>Team Nederland</td>
 <td><h2>{ { count_de}}</h2><br/>Team Deutschland</td>
 </tr></table>
 
