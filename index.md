@@ -2,7 +2,7 @@
 # *Obedience Interland 2024*
 {% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse contains 'OB'" %}
 
-{ % assign count_nl = handlers | where: 'land', 'N'" | size }
+{% assign count_nl = handlers | where: 'land', 'N'" | size }
 { % assign count_de = handlers | where: 'land', 'D'" | size }
 
 
@@ -13,9 +13,15 @@
 
 <img src="images/dutch-german-t.png" width="300">
 
-<table><tr>
+<style>
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+<table class="center"><tr>
 <td><h2>{{count_nl}}</h2><br/>Team Nederland</td>
-<td><h2>{ { count_de}}</h2><br/>Team Deutschland</td>
+<td><h2>{{count_de}}</h2><br/>Team Deutschland</td>
 </tr></table>
 
 ## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
