@@ -23,6 +23,11 @@
 <td><h2>{{count_de}}</h2><br/>Team Deutschland</td>
 </tr></table>
 
+<h2>{{count_nl}} - {{count_de}}</h2>
+Team Nederland- Team Deutschland
+
+<br/>
+
 ## ![NL](/images/flag-nl.png) De inschrijving is geopend!  
 
 Het inschrijfgeld bedraagt €&nbsp;20,00 incl. ontbijt.
