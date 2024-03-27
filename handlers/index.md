@@ -8,15 +8,17 @@
 
 ### Aantal / Anzahl<br/>
 
-Nederland / Niederlande : {{ handlers | where: 'land', 'N'" | size }}<br/>
-Duitsland / Deutschland : {{ handlers | where: 'land', 'D'" | size }}<br/>
+Nederland / Niederlande : {{ handlers | where: 'land', 'N' | size }}<br/>
+Duitsland / Deutschland : {{ handlers | where: 'land', 'D' | size }}<br/>
 
 ### Aantal per klasse / Anzahl pro Klasse<br/>
 
-OB B : {{ handlers | where: 'klasse', 'OB B'" | size }}<br/>
-OB 1 : {{ handlers | where: 'klasse', 'OB 1'" | size }}<br/>
-OB 2 : {{ handlers | where: 'klasse', 'OB 2'" | size }}<br/>
-OB 3 : {{ handlers | where: 'klasse', 'OB 3'" | size }}<br/>
+<table>
+<tr><td>OB B : </td><td> {{ handlers | where: 'klasse', 'OB B' | size }} </td></tr>
+<tr><td>OB 1 : </td><td> {{ handlers | where: 'klasse', 'OB 1' | size }} </td></tr>
+<tr><td>OB 2 : </td><td> {{ handlers | where: 'klasse', 'OB 2' | size }} </td></tr>
+<tr><td>OB 3 : </td><td> {{ handlers | where: 'klasse', 'OB 3' | size }} </td></tr>
+</table>
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
