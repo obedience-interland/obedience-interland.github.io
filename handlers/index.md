@@ -6,29 +6,16 @@
 
 {% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse contains 'OB'" %}
 
-### Aantal / Anzahl<br/>
-
-Nederland / Niederlande : {{ handlers | where: 'land', 'N' | size }}<br/>
-Duitsland / Deutschland : {{ handlers | where: 'land', 'D' | size }}<br/>
-
-### Aantal per klasse / Anzahl pro Klasse<br/>
-
-<table>
-<tr><td>OB B</td><td>{{ handlers | where: 'klasse', 'OB B' | size }}</td></tr>
-<tr><td>OB 1</td><td>{{ handlers | where: 'klasse', 'OB 1' | size }}</td></tr>
-<tr><td>OB 2</td><td>{{ handlers | where: 'klasse', 'OB 2' | size }}</td></tr>
-<tr><td>OB 3</td><td>{{ handlers | where: 'klasse', 'OB 3' | size }}</td></tr>
-</table>
-
 ### Aantal per klasse / Anzahl pro Klasse<br/>
 
 {% assign handlersNL = handlers | where: 'land', 'N' %}
 {% assign handlersDE = handlers | where: 'land', 'D' %}
 
-|    | OB B | OB 1 | OB 2 | OB 3 |
-| -- | ---- | ---- | ---- | ---- |
-| NL | {{ handlersNL | where: 'klasse', 'OB B' | size }} | {{ handlersNL | where: 'klasse', 'OB 1' | size }} | {{ handlersNL | where: 'klasse', 'OB 2' | size }} | {{ handlersNL | where: 'klasse', 'OB 3' | size }}
-| DE | {{ handlersDE | where: 'klasse', 'OB B' | size }} | {{ handlersDE | where: 'klasse', 'OB 1' | size }} | {{ handlersDE | where: 'klasse', 'OB 2' | size }} | {{ handlersDE | where: 'klasse', 'OB 3' | size }}
+|    | Beginners | Klasse 1 | Klasse 2 | Klasse 3 | Totaal |
+| -- | ---- | ---- | ---- | ---- | ---- |
+| Nederland   | {{ handlersNL | where: 'klasse', 'OB B' | size }} | {{ handlersNL | where: 'klasse', 'OB 1' | size }} | {{ handlersNL | where: 'klasse', 'OB 2' | size }} | {{ handlersNL | where: 'klasse', 'OB 3' | size }} | {{ handlers | where: 'land', 'N' | size }} |
+| Deutschland | {{ handlersDE | where: 'klasse', 'OB B' | size }} | {{ handlersDE | where: 'klasse', 'OB 1' | size }} | {{ handlersDE | where: 'klasse', 'OB 2' | size }} | {{ handlersDE | where: 'klasse', 'OB 3' | size }} | {{ handlers | where: 'land', 'D' | size }} |
+| Totaal      | {{ handlers | where: 'klasse', 'OB B' | size }} | {{ handlers | where: 'klasse', 'OB 1' | size }} | {{ handlers | where: 'klasse', 'OB 2' | size }} | {{ handlers | where: 'klasse', 'OB 3' | size }} | {{ handlers | size }} |
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
