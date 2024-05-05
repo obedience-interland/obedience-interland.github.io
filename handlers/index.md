@@ -11,11 +11,19 @@
 {% assign handlersNL = handlers | where: 'land', 'N' %}
 {% assign handlersDE = handlers | where: 'land', 'D' %}
 
-|    | Beginners | Klasse 1 | Klasse 2 | Klasse 3 | Totaal |
-| -- | ---- | ---- | ---- | ---- | ---- |
-| Nederland   | {{ handlersNL | where: 'klasse', 'OB B' | size }} | {{ handlersNL | where: 'klasse', 'OB 1' | size }} | {{ handlersNL | where: 'klasse', 'OB 2' | size }} | {{ handlersNL | where: 'klasse', 'OB 3' | size }} | {{ handlers | where: 'land', 'N' | size }} |
-| Deutschland | {{ handlersDE | where: 'klasse', 'OB B' | size }} | {{ handlersDE | where: 'klasse', 'OB 1' | size }} | {{ handlersDE | where: 'klasse', 'OB 2' | size }} | {{ handlersDE | where: 'klasse', 'OB 3' | size }} | {{ handlers | where: 'land', 'D' | size }} |
-| Totaal      | {{ handlers | where: 'klasse', 'OB B' | size }} | {{ handlers | where: 'klasse', 'OB 1' | size }} | {{ handlers | where: 'klasse', 'OB 2' | size }} | {{ handlers | where: 'klasse', 'OB 3' | size }} | {{ handlers | size }} |
+|    | Beginners | Klasse 1 | Klasse 2 | Klasse 3 || Totaal |
+| :-- | -- | -- | -- | -- |--| -- |
+| Nederland   | {{ handlersNL | where: 'klasse', 'OB B' | size }} | {{ handlersNL | where: 'klasse', 'OB 1' | size }} | {{ handlersNL | where: 'klasse', 'OB 2' | size }} | {{ handlersNL | where: 'klasse', 'OB 3' | size }} || {{ handlers | where: 'land', 'N' | size }} |
+| Deutschland | {{ handlersDE | where: 'klasse', 'OB B' | size }} | {{ handlersDE | where: 'klasse', 'OB 1' | size }} | {{ handlersDE | where: 'klasse', 'OB 2' | size }} | {{ handlersDE | where: 'klasse', 'OB 3' | size }} || {{ handlers | where: 'land', 'D' | size }} |
+||||||||
+| Totaal      | {{ handlers | where: 'klasse', 'OB B' | size }} | {{ handlers | where: 'klasse', 'OB 1' | size }} | {{ handlers | where: 'klasse', 'OB 2' | size }} | {{ handlers | where: 'klasse', 'OB 3' | size }} 
+|| {{ handlers | size }} |
+
+|    | Beginners | Klasse 1 | Klasse 2 | Klasse 3 || Totaal |
+| -- | ---- | ---- | ---- | ---- | -- | ---- |
+| nederland |||| 14 || 21 |
+||||||||
+| nederland |||| 14 || 21 |
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
