@@ -20,6 +20,16 @@ Duitsland / Deutschland : {{ handlers | where: 'land', 'D' | size }}<br/>
 <tr><td>OB 3</td><td>{{ handlers | where: 'klasse', 'OB 3' | size }}</td></tr>
 </table>
 
+### Aantal per klasse / Anzahl pro Klasse<br/>
+
+{% assign handlersNL = handlers | where: 'land', 'N' %}
+{% assign handlersDE = handlers | where: 'land', 'D' %}
+
+|    | OB B | OB 1 | OB 2 | OB 3 |
+| -- | ---- | ---- | ---- | ---- |
+| NL | {{ handlersNL | where: 'klasse', 'OB B' | size }} | {{ handlersNL | where: 'klasse', 'OB 1' | size }} | {{ handlersNL | where: 'klasse', 'OB 2' | size }} | {{ handlersNL | where: 'klasse', 'OB 3' | size }}
+| DE | {{ handlersDE | where: 'klasse', 'OB B' | size }} | {{ handlersDE | where: 'klasse', 'OB 1' | size }} | {{ handlersDE | where: 'klasse', 'OB 2' | size }} | {{ handlersDE | where: 'klasse', 'OB 3' | size }}
+
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
 <table>
