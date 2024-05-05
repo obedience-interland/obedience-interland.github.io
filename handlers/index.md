@@ -19,12 +19,6 @@
 | Totaal      | {{ handlers | where: 'klasse', 'OB B' | size }} | {{ handlers | where: 'klasse', 'OB 1' | size }} | {{ handlers | where: 'klasse', 'OB 2' | size }} | {{ handlers | where: 'klasse', 'OB 3' | size }} 
 || {{ handlers | size }} |
 
-|    | Beginners | Klasse 1 | Klasse 2 | Klasse 3 || Totaal |
-| -- | ---- | ---- | ---- | ---- | -- | ---- |
-| nederland |||| 14 || 21 |
-||||||||
-| nederland |||| 14 || 21 |
-
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
 <table>
