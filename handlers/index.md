@@ -6,7 +6,7 @@
 
 {% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse contains 'OB'" %}
 
-### Aantal per klasse / Anzahl pro Klasse<br/>
+### Aantal per klasse / Anzahl pro Klasse
 
 {% assign handlersNL = handlers | where: 'land', 'N' %}
 {% assign handlersDE = handlers | where: 'land', 'D' %}
@@ -16,8 +16,7 @@
 | Nederland   | {{ handlersNL | where: 'klasse', 'OB B' | size }} | {{ handlersNL | where: 'klasse', 'OB 1' | size }} | {{ handlersNL | where: 'klasse', 'OB 2' | size }} | {{ handlersNL | where: 'klasse', 'OB 3' | size }} || {{ handlers | where: 'land', 'N' | size }} |
 | Deutschland | {{ handlersDE | where: 'klasse', 'OB B' | size }} | {{ handlersDE | where: 'klasse', 'OB 1' | size }} | {{ handlersDE | where: 'klasse', 'OB 2' | size }} | {{ handlersDE | where: 'klasse', 'OB 3' | size }} || {{ handlers | where: 'land', 'D' | size }} |
 ||||||||
-| Totaal      | {{ handlers | where: 'klasse', 'OB B' | size }} | {{ handlers | where: 'klasse', 'OB 1' | size }} | {{ handlers | where: 'klasse', 'OB 2' | size }} | {{ handlers | where: 'klasse', 'OB 3' | size }} 
-|| {{ handlers | size }} |
+| Totaal      | {{ handlers | where: 'klasse', 'OB B' | size }} | {{ handlers | where: 'klasse', 'OB 1' | size }} | {{ handlers | where: 'klasse', 'OB 2' | size }} | {{ handlers | where: 'klasse', 'OB 3' | size }} || {{ handlers | size }} |
 
 ### Ingeschreven deelnemers / registrierten Teilnehmern
 
