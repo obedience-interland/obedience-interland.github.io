@@ -2,7 +2,7 @@
 
 {% assign youngest = site.data.deelnemers | sort: "datum" | last %}
 
-##### Laatst bijgewerkt op: {{ youngest.datum | date: "%Y-%m-%d" }}.
+##### Bijgewerkt tot: {{ youngest.datum | date: "%Y-%m-%d" }}.
 
 {% assign handlers = site.data.deelnemers | where_exp: "h", "h.klasse contains 'OB'" %}
 
