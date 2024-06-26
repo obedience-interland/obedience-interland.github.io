@@ -31,7 +31,7 @@
     </tr>
   </thead>
   <tbody>
-{% assign items = handlers %}
+{% assign items = handlers | sort: 'nr' %}
 {% for item in items %}
     <tr align="left">
       <td>{{ item.nr }}</td>
