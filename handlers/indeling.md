@@ -7,13 +7,13 @@ Snel naar:
 [OB3](#ob3)
 
 ### OBB
-{% include_relative table.html klasse="OBB" %}
+{% include_relative table.html klasse="OB B" %}
 
 ### OB1
-{% include_relative table.html klasse="OB1" %}
+{% include_relative table.html klasse="OB 1" %}
 
 ### OB2
-{% include_relative table.html klasse="OB2" %}
+{% include_relative table.html klasse="OB 2" %}
 
 ### OB3
-{% include_relative table.html klasse="OB3" %}
+{% include_relative table.html klasse="OB 3" %}
