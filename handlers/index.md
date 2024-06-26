@@ -22,6 +22,7 @@
 <table>
   <thead>
     <tr>
+      <th></th>
       <th>Klasse</th>
       <th></th>
       <th>Handler</th>
@@ -30,9 +31,10 @@
     </tr>
   </thead>
   <tbody>
-{% assign items = handlers | sort: 'nr' %}
+{% assign items = handlers %}
 {% for item in items %}
     <tr align="left">
+      <td>{{ item.nr }}</td>
       <td>{{ item.klasse }}</td>
       <td>{{ item.land }}</td>
       <td>{{ item.handler }}</td>
