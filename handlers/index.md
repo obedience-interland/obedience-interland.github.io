@@ -22,7 +22,7 @@
 <table>
   <thead>
     <tr>
-      <th></th>
+      <th>Nr</th>
       <th>Klasse</th>
       <th></th>
       <th>Handler</th>
