@@ -45,14 +45,14 @@
 </table>
 -->
 
-### OBB
+### Beginners
 {% include_relative table.html klasse="OB B" %}
 
-### OB1
+### Klasse 1
 {% include_relative table.html klasse="OB 1" %}
 
-### OB2
+### Klasse 2
 {% include_relative table.html klasse="OB 2" %}
 
-### OB3
+### Klasse 3
 {% include_relative table.html klasse="OB 3" %}
