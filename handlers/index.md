@@ -17,12 +17,12 @@
 | Deutschland | {{ handlersDE | where: 'klasse', 'OB B' | size }} | {{ handlersDE | where: 'klasse', 'OB 1' | size }} | {{ handlersDE | where: 'klasse', 'OB 2' | size }} | {{ handlersDE | where: 'klasse', 'OB 3' | size }} || {{ handlers | where: 'land', 'D' | size }} |
 | Totaal      | {{ handlers | where: 'klasse', 'OB B' | size }} | {{ handlers | where: 'klasse', 'OB 1' | size }} | {{ handlers | where: 'klasse', 'OB 2' | size }} | {{ handlers | where: 'klasse', 'OB 3' | size }} || {{ handlers | size }} |
 
-### Ingeschreven deelnemers / registrierten Teilnehmern
+### Deelnemers / Teilnehmern
 
+<!--
 <table>
   <thead>
     <tr>
-      <th>Nr</th>
       <th>Klasse</th>
       <th></th>
       <th>Handler</th>
@@ -31,10 +31,9 @@
     </tr>
   </thead>
   <tbody>
-{% assign items = handlers | sort: 'nr' %}
+{% assign items = handlers | sort: 'datum' %}
 {% for item in items %}
     <tr align="left">
-      <td>{{ item.nr }}</td>
       <td>{{ item.klasse }}</td>
       <td>{{ item.land }}</td>
       <td>{{ item.handler }}</td>
@@ -44,3 +43,16 @@
 {% endfor %}
   </tbody>
 </table>
+-->
+
+### OBB
+{% include_relative table.html klasse="OB B" %}
+
+### OB1
+{% include_relative table.html klasse="OB 1" %}
+
+### OB2
+{% include_relative table.html klasse="OB 2" %}
+
+### OB3
+{% include_relative table.html klasse="OB 3" %}
