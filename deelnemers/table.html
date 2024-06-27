@@ -12,7 +12,7 @@
 {% assign items = site.data.deelnemers | sort: 'nr' %}
 {% for item in items %}
   {% if item.klasse == include.klasse %}
-    <tr>
+    <tr align="left">
       <td>{{ item.nr }}</td>
       <td>{{ item.land }}</td>
       <td>{{ item.handler }}</td>
