@@ -16,7 +16,7 @@
 <h1>{{count_nl}} - {{count_de}}</h1>
 Team Nederland - Team Deutschland
 
-[Deelnemers / Teilnehmern](handlers){:.knop}
+[Deelnemers / Teilnehmern](deelnemers){:.knop}
 
 <br/>
 <br/>
