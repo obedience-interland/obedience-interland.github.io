@@ -18,6 +18,7 @@ Team Nederland - Team Deutschland
 
 [Deelnemers / Teilnehmern](deelnemers){:.knop}
 
+[Programma / Programm](programma){:.knop}
 <br/>
 <br/>
 
