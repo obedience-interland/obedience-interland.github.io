@@ -10,9 +10,11 @@
 | Lunch | 12.15 uur |
 | Aanvang individuele oefeningen | 13.00 uur |
 | Prijsuitreiking | 16.00 uur |
+
 *) Tijden zijn bij benadering.
 
 ---
+
 | Ring 1 | Ring 2 | Ring 3 |
 |-|-|-|
 | Keurmeester:<br>Dirk Belder<br>Ringsteward: <br>Edwin Rademakers |Keurmeester:<br>Monique Barten<br>Ringsteward: <br>Gerard Tomassen | Keurmeester:<br>Kirstin Niederstenschee<br>Ringsteward: <br>Barbara Schifter |
