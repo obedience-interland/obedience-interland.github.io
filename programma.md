@@ -64,3 +64,4 @@
 | Posities op afstand |
 | Rond pion sturen met hord |
 ||||
+| 🥇🥈🥉🥇🥈🥉 | **PRIJSUITREIKING** | 🥇🥈🥉🥇🥈🥉 |
