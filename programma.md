@@ -1,7 +1,7 @@
 ## Programma
 
-|||
-|-|-:|
+| | |
+|---|--:|
 | Secretariaat open | 8.00 uur |
 | Ontbijt | 8.00 uur |
 | Opening | 8.50 uur |
