@@ -42,7 +42,9 @@
 || Posities tijdens volgen | Los volgen  |
 || Volgen | Posities tijdens het volgen  |
 || Richting apport | Richting apport |
-|&nbsp;|||
+||||
+|  🦴🦴🦴🦴🦴🦴🦴 | **LUNCH** | 🍖🍖🍖🍖🍖🍖 |
+||||
 | 🐾🐾🐾🐾🐾🐾 | **MIDDAG** | 🐾🐾🐾🐾🐾🐾 |
 | **Ring 1** | **Ring 2** | **Ring 3** |
 | **OBB (VDH)** | **OB3** | **OB1** |
