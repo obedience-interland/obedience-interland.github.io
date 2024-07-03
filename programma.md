@@ -1,7 +1,7 @@
 ## Programma
 
 | | |
-|---|--:|
+|:--|--:|
 | Secretariaat open | 8.00 uur |
 | Ontbijt | 8.00 uur |
 | Opening | 8.50 uur |
@@ -28,6 +28,7 @@
 || **OB2** | **OB3** |
 || 2 min liggen uit zicht | 2 min zitten uit zicht |
 ||| 1 min liggen in zicht met komen op bevel |
+||||
 | 🐾🐾🐾🐾🐾🐾 | **INDIVIDUEEL**| 🐾🐾🐾🐾🐾🐾 |
 | **OB1** | **OBB (NL)** | **OBB (VDH)** |
 | Apport over de horde | Volgen los / aangelijnd | Freifolge |
@@ -43,7 +44,7 @@
 || Richting apport | Richting apport |
 |&nbsp;|||
 | 🐾🐾🐾🐾🐾🐾 | **MIDDAG** | 🐾🐾🐾🐾🐾🐾 |
-||||
+| **Ring 1** | **Ring 2** | **Ring 3** |
 | **OBB (VDH)** | **OB3** | **OB1** |
 | Apport auf ebener erde | Sorteren | Vak zenden |
 | Distanzekontrole | Vak zenden | Om pion sturen  |
