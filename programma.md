@@ -1,4 +1,4 @@
-## Programma
+## Dagschema
 
 | | |
 |:--|--:|
@@ -15,9 +15,11 @@
 
 ---
 
+## Ring programma
+
 | Ring 1 | Ring 2 | Ring 3 |
-|-|-|-|
-| Keurmeester:<br>Dirk Belder<br>Ringsteward: <br>Edwin Rademakers |Keurmeester:<br>Monique Barten<br>Ringsteward: <br>Gerard Tomassen | Keurmeester:<br>Kirstin Niederstenschee<br>Ringsteward: <br>Barbara Schifter |
+|--|--|--|
+| Dirk Belder <br> Edwin Rademakers | Monique Barten <br> Gerard Tomassen | Kirstin Niederstenschee <br> Barbara Schifter |
 ||||
 | 🐾🐾🐾🐾🐾🐾 | **OCHTEND** | 🐾🐾🐾🐾🐾🐾 |
 | **OB1** | **OBB (NL)** | **OBB (VDH)** |
