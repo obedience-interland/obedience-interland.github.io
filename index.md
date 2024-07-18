@@ -12,12 +12,12 @@
 
 <img src="images/dutch-german-t.png" width="300">
 
-
-<h1>{{count_nl}} - {{count_de}}</h1>
-Team Nederland - Team Deutschland
-<br/>
-
 ## Uitslag / Ausslag
+
+### Kampioen 2024 : Duitsland
+
+---
+
 ### OBB-NL
 
 | Rang | Punten |  | Handler | Hond |
@@ -61,7 +61,6 @@ Team Nederland - Team Deutschland
 | 3 | 265 | D |Harriet Hellwig | Bowie |
 | 4 | 263 | N |Marion Wante    | Ringo |
 
-### Kampioen 2024 : Duitsland
 <br/>
 
 <br>
