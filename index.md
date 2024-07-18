@@ -19,6 +19,7 @@ Team Nederland - Team Deutschland
 
 ## Uitslag / Ausslag
 ### OBB-NL
+
 | Rang | Punten |  | Handler | Hond |
 |-|-|-|-|-|
 | 1 | 287 | N | Maaike | Mint |
@@ -26,6 +27,7 @@ Team Nederland - Team Deutschland
 | 3 |190.5| N | Jamie Hoek | Dexter |
 
 ### OBB-VDH
+
 | Rang | Punten |  | Handler | Hond |
 |-|-|-|-|-|
 | 1 |245.5| D | Nadine Veronese | Illox zur Krombach |
@@ -33,6 +35,7 @@ Team Nederland - Team Deutschland
 | 3 |235.5| D | Michaela Fischer | Merlin |
 
 ### Klasse OB 1
+
 | Rang | Punten |  | Handler | Hond |
 |-|-|-|-|-|
 | 1 | 308 | N | Kelly Albers | Marat |
@@ -42,6 +45,7 @@ Team Nederland - Team Deutschland
 | 5 | 256 | D | Klaus - Jürgen Doant | Saphira |
 
 ### Klasse OB 2
+
 | Rang | Punten |  | Handler | Hond |
 |-|-|-|-|-|
 | 1 |302.5| N | Marieke van der Burgt | Kaya |
@@ -49,6 +53,7 @@ Team Nederland - Team Deutschland
 | 3 | 294 | N | Kelly Albers | Haycko |
 
 ### Klasse OB 3
+
 | Rang | Punten |  | Handler | Hond |
 |-|-|-|-|-|
 | 1 |285.5| D |Melanie Tiemann | Akina |
