@@ -12,11 +12,11 @@
 
 <img src="images/dutch-german-t.png" width="300">
 
-## Uitslag / Ausslag
-
-### Kampioen 2024 : Duitsland
+## Kampioen 2024 : Duitsland
 
 ---
+
+## Uitslag / Ausslag
 
 ### OBB-NL
 
