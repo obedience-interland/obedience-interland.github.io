@@ -21,7 +21,7 @@ Team Nederland - Team Deutschland
 ### OBB-NL
 
 | Rang | Punten |  | Handler | Hond |
-|-|-|-|-|-|
+|:-:|:-|:-:|:-|:-|
 | 1 | 287 | N | Maaike | Mint |
 | 2 | 237 | N | Leon van den Wildenberg | Ellis |
 | 3 |190.5| N | Jamie Hoek | Dexter |
@@ -29,7 +29,7 @@ Team Nederland - Team Deutschland
 ### OBB-VDH
 
 | Rang | Punten |  | Handler | Hond |
-|-|-|-|-|-|
+|:-:|:-|:-:|:-|:-|
 | 1 |245.5| D | Nadine Veronese | Illox zur Krombach |
 | 2 | 239 | D | Kirstin Lürsen | Elvis |
 | 3 |235.5| D | Michaela Fischer | Merlin |
@@ -37,7 +37,7 @@ Team Nederland - Team Deutschland
 ### Klasse OB 1
 
 | Rang | Punten |  | Handler | Hond |
-|-|-|-|-|-|
+|:-:|:-|:-:|:-|:-|
 | 1 | 308 | N | Kelly Albers | Marat |
 | 2 | 287 | N | René Verwijmeren | Body |
 | 3 | 262 | D | Anja Reiners | Leev |
@@ -47,7 +47,7 @@ Team Nederland - Team Deutschland
 ### Klasse OB 2
 
 | Rang | Punten |  | Handler | Hond |
-|-|-|-|-|-|
+|:-:|:-|:-:|:-|:-|
 | 1 |302.5| N | Marieke van der Burgt | Kaya |
 | 2 | 300 | D | Yvonne Woywodt | Eninja von Scathach |
 | 3 | 294 | N | Kelly Albers | Haycko |
@@ -55,7 +55,7 @@ Team Nederland - Team Deutschland
 ### Klasse OB 3
 
 | Rang | Punten |  | Handler | Hond |
-|-|-|-|-|-|
+|:-:|:-|:-:|:-|:-|
 | 1 |285.5| D |Melanie Tiemann | Akina |
 | 2 |275.5| D |Monika Tacke    | Posh  |
 | 3 | 265 | D |Harriet Hellwig | Bowie |
